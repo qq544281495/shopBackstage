@@ -1,0 +1,34 @@
+{
+  "backstage/backstage.js": "/public/js/chunk/backstage/backstage.js",
+  "common.js": "/public/js/chunk/common.js",
+  "login/index.js": "/public/js/chunk/login/index.js",
+  "runtime.js": "/public/js/runtime.js",
+  "font/element-icons.ttf": "/public/font/element-icons.ttf",
+  "font/element-icons.woff": "/public/font/element-icons.woff",
+  "font/iconfont.ttf?t=1649789243575": "/public/font/iconfont.ttf",
+  "img/banner.jpg": "/public/img/banner.jpg",
+  "img/login-icon.png": "/public/img/login-icon.png",
+  "deps": {
+    "backstage/backstage.js": {
+      "js": [
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/backstage/backstage.js"
+      ],
+      "css": []
+    },
+    "login/index.js": {
+      "js": [
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/login/index.js"
+      ],
+      "css": []
+    }
+  },
+  "info": {
+    "publicPath": "/public/",
+    "buildPath": "\\public",
+    "mapped": true
+  }
+}

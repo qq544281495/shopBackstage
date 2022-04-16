@@ -1,0 +1,389 @@
+{
+  "security": {
+    "csrf": {
+      "enable": "E:\\shopBackstage\\config\\config.default.js",
+      "ignoreJSON": "E:\\shopBackstage\\config\\config.default.js",
+      "type": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js",
+      "supportedRequests": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "E:\\shopBackstage\\config\\config.local.js",
+    "protocolWhiteList": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js",
+      "ipExceptionList": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "jwt": {
+    "secret": "E:\\shopBackstage\\config\\config.default.js",
+    "enable": "E:\\shopBackstage\\node_modules\\egg-jwt\\config\\config.default.js"
+  },
+  "cors": {
+    "origin": "E:\\shopBackstage\\config\\config.default.js",
+    "allowMethods": "E:\\shopBackstage\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "E:\\shopBackstage\\config\\config.default.js",
+    "cacheControl": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"
+  },
+  "vuessr": {
+    "layout": "E:\\shopBackstage\\config\\config.default.js",
+    "renderOptions": {
+      "basedir": "E:\\shopBackstage\\config\\config.default.js",
+      "runInNewContext": "E:\\shopBackstage\\node_modules\\egg-view-vue-ssr\\config\\config.default.js"
+    },
+    "doctype": "E:\\shopBackstage\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "manifest": "E:\\shopBackstage\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "injectHeadRegex": "E:\\shopBackstage\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "injectBodyRegex": "E:\\shopBackstage\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "injectCss": "E:\\shopBackstage\\node_modules\\egg-view-vue-ssr\\config\\config.local.js",
+    "injectJs": "E:\\shopBackstage\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "injectRes": "E:\\shopBackstage\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "crossorigin": "E:\\shopBackstage\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "mergeLocals": "E:\\shopBackstage\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "fallbackToClient": "E:\\shopBackstage\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "viewEngine": "E:\\shopBackstage\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+    "cache": {
+      "max": "E:\\shopBackstage\\node_modules\\egg-view-vue-ssr\\config\\config.default.js",
+      "maxAge": "E:\\shopBackstage\\node_modules\\egg-view-vue-ssr\\config\\config.default.js"
+    },
+    "afterRender": "E:\\shopBackstage\\node_modules\\egg-view-vue-ssr\\config\\config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "E:\\shopBackstage\\config\\config.default.js",
+    "dir": "E:\\shopBackstage\\config\\config.default.js",
+    "encoding": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "env": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "level": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "E:\\shopBackstage\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "enablePerformanceTimer": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\shopBackstage\\config\\config.default.js",
+    "dir": "E:\\shopBackstage\\config\\config.default.js",
+    "maxAge": "E:\\shopBackstage\\config\\config.local.js",
+    "dynamic": "E:\\shopBackstage\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "E:\\shopBackstage\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "E:\\shopBackstage\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\shopBackstage\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "keys": "E:\\shopBackstage\\config\\config.default.js",
+  "middleware": "E:\\shopBackstage\\config\\config.default.js",
+  "mysql": {
+    "client": {
+      "host": "E:\\shopBackstage\\config\\config.default.js",
+      "port": "E:\\shopBackstage\\config\\config.default.js",
+      "user": "E:\\shopBackstage\\config\\config.default.js",
+      "password": "E:\\shopBackstage\\config\\config.default.js",
+      "database": "E:\\shopBackstage\\config\\config.default.js"
+    },
+    "app": "E:\\shopBackstage\\config\\config.default.js",
+    "agent": "E:\\shopBackstage\\config\\config.default.js",
+    "default": {
+      "database": "E:\\shopBackstage\\node_modules\\egg-mysql\\config\\config.default.js",
+      "connectionLimit": "E:\\shopBackstage\\node_modules\\egg-mysql\\config\\config.default.js"
+    }
+  },
+  "view": {
+    "cache": "E:\\shopBackstage\\config\\config.local.js",
+    "root": "E:\\shopBackstage\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultExtension": "E:\\shopBackstage\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "E:\\shopBackstage\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": {
+      ".js": "E:\\shopBackstage\\node_modules\\egg-view-vue-ssr\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "E:\\shopBackstage\\config\\config.local.js",
+    "ignoreDirs": "E:\\shopBackstage\\config\\config.local.js",
+    "fastReady": "E:\\shopBackstage\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\shopBackstage\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "E:\\shopBackstage\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "E:\\shopBackstage\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logview": {
+    "dir": "E:\\shopBackstage\\config\\config.local.js",
+    "prefix": "E:\\shopBackstage\\node_modules\\egg-logview\\config\\config.default.js",
+    "staticHost": "E:\\shopBackstage\\node_modules\\egg-logview\\config\\config.default.js"
+  },
+  "webpack": "E:\\shopBackstage\\config\\config.local.js",
+  "session": {
+    "maxAge": "E:\\shopBackstage\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "E:\\shopBackstage\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\shopBackstage\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "E:\\shopBackstage\\node_modules\\egg-session\\config\\config.default.js",
+    "logValue": "E:\\shopBackstage\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "E:\\shopBackstage\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\shopBackstage\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\shopBackstage\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\shopBackstage\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "E:\\shopBackstage\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\shopBackstage\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\shopBackstage\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\shopBackstage\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\shopBackstage\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\shopBackstage\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\shopBackstage\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "E:\\shopBackstage\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\shopBackstage\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\shopBackstage\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "E:\\shopBackstage\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "E:\\shopBackstage\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "E:\\shopBackstage\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "E:\\shopBackstage\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "E:\\shopBackstage\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "E:\\shopBackstage\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "E:\\shopBackstage\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\shopBackstage\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\shopBackstage\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\shopBackstage\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "E:\\shopBackstage\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\shopBackstage\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "E:\\shopBackstage\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\shopBackstage\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\shopBackstage\\node_modules\\egg-multipart\\config\\config.default.js",
+    "allowArrayField": "E:\\shopBackstage\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "E:\\shopBackstage\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "E:\\shopBackstage\\node_modules\\egg-multipart\\config\\config.default.js",
+      "disable": "E:\\shopBackstage\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\shopBackstage\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\shopBackstage\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\shopBackstage\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\shopBackstage\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\shopBackstage\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\shopBackstage\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\shopBackstage\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "env": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+  "name": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "version": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "description": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "start": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "debug": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "clean": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "build": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "lint": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "fix": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "ii": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "changelog": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "axios": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "cross-env": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "egg": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "egg-jwt": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "egg-logger": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "egg-mysql": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "egg-validate": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-vue-ssr": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "element-ui": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "extend": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "font-awesome": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "lodash": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "lodash-id": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "lowdb": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "mockjs": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "moment": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "shortid": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "showdown": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "simplemde": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "vue": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "vue-hot-reload-api": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "vue-i18n": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "vue-material-input": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "vue-router": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "vuex": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "vuex-router-sync": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "@easy-team/easywebpack-cli": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "@easy-team/easywebpack-vue": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "babel-plugin-component": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "egg-logview": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "egg-webpack": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "egg-webpack-vue": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "eslint-plugin-vue": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "ip": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "less": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "less-loader": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "url": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "license": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "homepage": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "webpack": {
+      "loaders": {
+        "less": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"
+      }
+    }
+  },
+  "baseDir": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "strict": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "depth": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "logging": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "port": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"
+}
