@@ -1,0 +1,276 @@
+2022-04-16 16:00:49,438 INFO 10188 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 16:00:49,438 INFO 10188 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 16:00:49,438 INFO 10188 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 16:00:50,013 INFO 9968 [Timer] E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 44949992ms at 2022-04-17 04:30:00.005
+2022-04-16 16:00:50,013 INFO 9968 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 28749987ms at 2022-04-17 00:00:00.000
+2022-04-16 16:00:50,014 INFO 9968 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 28750987ms at 2022-04-17 00:00:01.001
+2022-04-16 17:20:59,675 INFO 14504 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:20:59,675 INFO 14504 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:20:59,676 INFO 14504 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:21:17,443 INFO 8040 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:21:17,443 INFO 8040 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:21:17,443 INFO 8040 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:21:19,389 INFO 5596 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:21:19,389 INFO 5596 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:21:19,389 INFO 5596 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:21:33,470 INFO 9700 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:21:33,470 INFO 9700 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:21:33,470 INFO 9700 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:21:36,587 INFO 9628 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:21:36,587 INFO 9628 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:21:36,588 INFO 9628 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:21:40,918 INFO 10164 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:21:40,919 INFO 10164 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:21:40,919 INFO 10164 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:21:50,538 INFO 9340 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:21:50,538 INFO 9340 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:21:50,538 INFO 9340 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:29:18,847 INFO 15232 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:29:18,847 INFO 15232 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:29:18,847 INFO 15232 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:29:28,502 INFO 12396 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:29:28,502 INFO 12396 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:29:28,502 INFO 12396 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:29:50,002 INFO 15036 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:29:50,002 INFO 15036 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:29:50,002 INFO 15036 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:30:13,526 INFO 14396 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:30:13,526 INFO 14396 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:30:13,527 INFO 14396 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:30:54,706 INFO 10672 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:30:54,706 INFO 10672 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:30:54,706 INFO 10672 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:31:14,305 INFO 10928 [Timer] E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 39525697ms at 2022-04-17 04:30:00.002
+2022-04-16 17:31:14,306 INFO 10928 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 23325694ms at 2022-04-17 00:00:00.000
+2022-04-16 17:31:14,306 INFO 10928 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 23326694ms at 2022-04-17 00:00:01.000
+2022-04-16 17:31:14,154 INFO 5092 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:31:14,154 INFO 5092 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:31:14,154 INFO 5092 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:32:35,331 INFO 12252 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:32:35,331 INFO 12252 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:32:35,331 INFO 12252 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:33:41,214 INFO 14228 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:33:41,214 INFO 14228 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:33:41,214 INFO 14228 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:33:49,071 INFO 8580 [Timer] E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 39370931ms at 2022-04-17 04:30:00.002
+2022-04-16 17:33:49,072 INFO 8580 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 23170928ms at 2022-04-17 00:00:00.000
+2022-04-16 17:33:49,072 INFO 8580 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 23171928ms at 2022-04-17 00:00:01.000
+2022-04-16 17:33:48,933 INFO 3684 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:33:48,933 INFO 3684 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:33:48,933 INFO 3684 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:34:29,163 INFO 13180 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:34:29,163 INFO 13180 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:34:29,164 INFO 13180 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:34:39,685 INFO 14840 [Timer] E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 39320318ms at 2022-04-17 04:30:00.003
+2022-04-16 17:34:39,685 INFO 14840 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 23120315ms at 2022-04-17 00:00:00.000
+2022-04-16 17:34:39,685 INFO 14840 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 23121315ms at 2022-04-17 00:00:01.000
+2022-04-16 17:34:39,545 INFO 5640 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:34:39,545 INFO 5640 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:34:39,545 INFO 5640 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:35:05,203 INFO 260 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:35:05,203 INFO 260 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:35:05,203 INFO 260 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:35:31,571 INFO 14376 [Timer] E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 39268432ms at 2022-04-17 04:30:00.003
+2022-04-16 17:35:31,571 INFO 14376 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 23068429ms at 2022-04-17 00:00:00.000
+2022-04-16 17:35:31,572 INFO 14376 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 23069429ms at 2022-04-17 00:00:01.001
+2022-04-16 17:35:31,436 INFO 12660 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:35:31,436 INFO 12660 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:35:31,436 INFO 12660 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:36:34,836 INFO 6176 [Timer] E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 39205168ms at 2022-04-17 04:30:00.004
+2022-04-16 17:36:34,837 INFO 6176 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 23005163ms at 2022-04-17 00:00:00.000
+2022-04-16 17:36:34,838 INFO 6176 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 23006163ms at 2022-04-17 00:00:01.001
+2022-04-16 17:36:34,696 INFO 14656 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:36:34,696 INFO 14656 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:36:34,697 INFO 14656 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:37:39,623 INFO 5784 [Timer] E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 39140380ms at 2022-04-17 04:30:00.003
+2022-04-16 17:37:39,623 INFO 5784 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 22940377ms at 2022-04-17 00:00:00.000
+2022-04-16 17:37:39,624 INFO 5784 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 22941377ms at 2022-04-17 00:00:01.001
+2022-04-16 17:37:39,484 INFO 10816 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:37:39,484 INFO 10816 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:37:39,485 INFO 10816 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:47:23,474 INFO 8700 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:47:23,474 INFO 8700 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:47:23,474 INFO 8700 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:48:12,522 INFO 556 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 17:48:12,522 INFO 556 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 17:48:12,522 INFO 556 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 17:48:12,648 INFO 9000 [Timer] E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 38507354ms at 2022-04-17 04:30:00.002
+2022-04-16 17:48:12,649 INFO 9000 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 22307351ms at 2022-04-17 00:00:00.000
+2022-04-16 17:48:12,649 INFO 9000 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 22308351ms at 2022-04-17 00:00:01.000
+2022-04-16 18:14:53,508 INFO 5712 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 18:14:53,508 INFO 5712 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 18:14:53,508 INFO 5712 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 18:14:54,709 INFO 10980 [Timer] E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 36905294ms at 2022-04-17 04:30:00.003
+2022-04-16 18:14:54,710 INFO 10980 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 20705290ms at 2022-04-17 00:00:00.000
+2022-04-16 18:14:54,710 INFO 10980 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 20706290ms at 2022-04-17 00:00:01.000
+2022-04-16 18:48:39,087 INFO 13928 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 18:48:39,087 INFO 13928 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 18:48:39,087 INFO 13928 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 18:52:12,021 INFO 10960 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 18:52:12,021 INFO 10960 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 18:52:12,021 INFO 10960 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 18:53:14,081 INFO 11328 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 18:53:14,081 INFO 11328 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 18:53:14,081 INFO 11328 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 18:53:15,947 INFO 11284 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 18:53:15,947 INFO 11284 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 18:53:15,947 INFO 11284 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 18:53:30,838 INFO 4908 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 18:53:30,838 INFO 4908 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 18:53:30,838 INFO 4908 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 18:53:47,744 INFO 6184 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 18:53:47,744 INFO 6184 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 18:53:47,744 INFO 6184 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 18:53:54,878 INFO 9988 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 18:53:54,878 INFO 9988 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 18:53:54,878 INFO 9988 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 18:54:36,448 INFO 260 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 18:54:36,448 INFO 260 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 18:54:36,448 INFO 260 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 18:55:17,827 INFO 6360 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 18:55:17,827 INFO 6360 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 18:55:17,827 INFO 6360 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 18:57:56,193 INFO 12212 [Timer] E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 34323810ms at 2022-04-17 04:30:00.003
+2022-04-16 18:57:56,194 INFO 12212 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 18123807ms at 2022-04-17 00:00:00.001
+2022-04-16 18:57:56,194 INFO 12212 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 18124806ms at 2022-04-17 00:00:01.000
+2022-04-16 18:57:56,052 INFO 3808 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 18:57:56,052 INFO 3808 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 18:57:56,052 INFO 3808 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 18:59:02,646 INFO 1972 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 18:59:02,646 INFO 1972 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 18:59:02,646 INFO 1972 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 18:59:40,412 INFO 1304 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 18:59:40,412 INFO 1304 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 18:59:40,412 INFO 1304 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 18:59:51,101 INFO 11024 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 18:59:51,101 INFO 11024 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 18:59:51,102 INFO 11024 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 19:00:44,536 INFO 13932 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 19:00:44,536 INFO 13932 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 19:00:44,536 INFO 13932 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 19:01:38,158 INFO 12256 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 19:01:38,158 INFO 12256 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 19:01:38,159 INFO 12256 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 19:02:24,411 INFO 10764 [Timer] E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 34055592ms at 2022-04-17 04:30:00.003
+2022-04-16 19:02:24,411 INFO 10764 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 17855589ms at 2022-04-17 00:00:00.000
+2022-04-16 19:02:24,412 INFO 10764 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 17856589ms at 2022-04-17 00:00:01.001
+2022-04-16 19:02:24,268 INFO 2696 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 19:02:24,268 INFO 2696 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 19:02:24,268 INFO 2696 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 19:03:33,194 INFO 12984 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 19:03:33,194 INFO 12984 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 19:03:33,194 INFO 12984 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 19:03:35,873 INFO 6760 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 19:03:35,873 INFO 6760 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 19:03:35,873 INFO 6760 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 19:03:44,788 INFO 6208 [Timer] E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 33975215ms at 2022-04-17 04:30:00.003
+2022-04-16 19:03:44,789 INFO 6208 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 17775212ms at 2022-04-17 00:00:00.001
+2022-04-16 19:03:44,789 INFO 6208 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 17776211ms at 2022-04-17 00:00:01.000
+2022-04-16 19:03:44,616 INFO 6248 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 19:03:44,616 INFO 6248 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 19:03:44,616 INFO 6248 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 19:03:59,963 INFO 12212 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 19:03:59,963 INFO 12212 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 19:03:59,963 INFO 12212 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 19:07:10,022 INFO 4164 [Timer] E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 33769980ms at 2022-04-17 04:30:00.002
+2022-04-16 19:07:10,023 INFO 4164 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 17569977ms at 2022-04-17 00:00:00.000
+2022-04-16 19:07:10,023 INFO 4164 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 17570977ms at 2022-04-17 00:00:01.000
+2022-04-16 19:07:09,843 INFO 3880 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 19:07:09,843 INFO 3880 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 19:07:09,843 INFO 3880 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 19:07:34,764 INFO 14452 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 19:07:34,765 INFO 14452 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 19:07:34,765 INFO 14452 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 19:09:43,002 INFO 15108 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 19:09:43,003 INFO 15108 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 19:09:43,003 INFO 15108 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 19:09:44,795 INFO 14828 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 19:09:44,795 INFO 14828 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 19:09:44,795 INFO 14828 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 19:13:30,112 INFO 8332 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 19:13:30,113 INFO 8332 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 19:13:30,113 INFO 8332 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 19:13:39,317 INFO 2108 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 19:13:39,317 INFO 2108 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 19:13:39,317 INFO 2108 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 19:13:45,647 INFO 14732 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 19:13:45,647 INFO 14732 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 19:13:45,647 INFO 14732 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 19:15:31,019 INFO 12572 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 19:15:31,019 INFO 12572 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 19:15:31,019 INFO 12572 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 19:16:26,697 INFO 1400 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 19:16:26,697 INFO 1400 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 19:16:26,697 INFO 1400 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 19:16:54,877 INFO 8924 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 19:16:54,878 INFO 8924 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 19:16:54,878 INFO 8924 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 19:17:18,108 INFO 8124 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 19:17:18,108 INFO 8124 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 19:17:18,109 INFO 8124 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 19:18:04,687 INFO 12716 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 19:18:04,688 INFO 12716 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 19:18:04,688 INFO 12716 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 19:20:23,521 INFO 13088 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 19:20:23,521 INFO 13088 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 19:20:23,521 INFO 13088 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 19:21:08,134 INFO 7888 [Timer] E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 32931869ms at 2022-04-17 04:30:00.003
+2022-04-16 19:21:08,134 INFO 7888 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 16731866ms at 2022-04-17 00:00:00.000
+2022-04-16 19:21:08,134 INFO 7888 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 16732866ms at 2022-04-17 00:00:01.000
+2022-04-16 19:21:07,954 INFO 6488 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 19:21:07,954 INFO 6488 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 19:21:07,954 INFO 6488 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 19:24:18,017 INFO 4880 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 19:24:18,019 INFO 4880 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 19:24:18,019 INFO 4880 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 21:03:46,569 INFO 3604 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 21:03:46,569 INFO 3604 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 21:03:46,569 INFO 3604 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 21:06:03,826 INFO 6376 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 21:06:03,826 INFO 6376 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 21:06:03,826 INFO 6376 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 21:16:47,113 INFO 12200 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 21:16:47,113 INFO 12200 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 21:16:47,113 INFO 12200 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 21:16:48,743 INFO 14788 [Timer] E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 25991260ms at 2022-04-17 04:30:00.003
+2022-04-16 21:16:48,744 INFO 14788 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 9791257ms at 2022-04-17 00:00:00.000
+2022-04-16 21:16:48,744 INFO 14788 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 9792256ms at 2022-04-17 00:00:01.000
+2022-04-16 21:20:07,008 INFO 12616 [Timer] E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 25792994ms at 2022-04-17 04:30:00.002
+2022-04-16 21:20:07,009 INFO 12616 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 9592992ms at 2022-04-17 00:00:00.001
+2022-04-16 21:20:07,009 INFO 12616 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 9593991ms at 2022-04-17 00:00:01.000
+2022-04-16 21:20:06,822 INFO 1044 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 21:20:06,822 INFO 1044 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 21:20:06,822 INFO 1044 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 21:22:52,297 INFO 10364 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 21:22:52,298 INFO 10364 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 21:22:52,298 INFO 10364 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 21:22:52,480 INFO 3372 [Timer] E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 25627523ms at 2022-04-17 04:30:00.003
+2022-04-16 21:22:52,481 INFO 3372 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 9427520ms at 2022-04-17 00:00:00.001
+2022-04-16 21:22:52,481 INFO 3372 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 9428519ms at 2022-04-17 00:00:01.000
+2022-04-16 21:30:34,960 INFO 8572 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 21:30:34,961 INFO 8572 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 21:30:34,961 INFO 8572 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 21:31:26,378 INFO 14560 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 21:31:26,378 INFO 14560 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 21:31:26,378 INFO 14560 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 21:31:26,554 INFO 2892 [Timer] E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 25113449ms at 2022-04-17 04:30:00.003
+2022-04-16 21:31:26,554 INFO 2892 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 8913446ms at 2022-04-17 00:00:00.000
+2022-04-16 21:31:26,554 INFO 2892 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 8914446ms at 2022-04-17 00:00:01.000
+2022-04-16 22:36:38,133 INFO 9312 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 22:36:38,133 INFO 9312 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 22:36:38,133 INFO 9312 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 22:36:44,641 INFO 7104 [Timer] E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 21195364ms at 2022-04-17 04:30:00.004
+2022-04-16 22:36:44,641 INFO 7104 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 4995359ms at 2022-04-17 00:00:00.000
+2022-04-16 22:36:44,641 INFO 7104 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 4996359ms at 2022-04-17 00:00:01.000
+2022-04-16 23:20:50,362 INFO 14080 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 23:20:50,362 INFO 14080 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 23:20:50,362 INFO 14080 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-16 23:20:55,698 INFO 7796 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-04-16 23:20:55,699 INFO 7796 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-04-16 23:20:55,699 INFO 7796 [egg-schedule]: register schedule E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-04-17 00:00:00,010 INFO 7796 [Job#1650124800008852076868808001] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js executing by app
+2022-04-17 00:00:00,020 INFO 7796 [Job#1650124800008852076868808001] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js execute succeed, used 9ms. 
+2022-04-17 00:00:00,019 INFO 7104 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 86399991ms at 2022-04-18 00:00:00.010
+2022-04-17 00:00:01,020 INFO 7796 [Job#1650124801019852086982656001] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2022-04-17 00:00:01,035 INFO 7796 [Job#1650124801019852086982656001] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 15ms. 
+2022-04-17 00:00:01,021 INFO 7104 [Timer] E:\shopBackstage\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 86399980ms at 2022-04-18 00:00:01.001

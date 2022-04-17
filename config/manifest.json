@@ -1,4 +1,9 @@
 {
+  "chunk/0.js": "/public/js/chunk/0.js",
+  "chunk/1.js": "/public/js/chunk/1.js",
+  "chunk/2.js": "/public/js/chunk/2.js",
+  "chunk/3.js": "/public/js/chunk/3.js",
+  "chunk/4.js": "/public/js/chunk/4.js",
   "backstage/backstage.js": "/public/js/chunk/backstage/backstage.js",
   "common.js": "/public/js/chunk/common.js",
   "login/index.js": "/public/js/chunk/login/index.js",

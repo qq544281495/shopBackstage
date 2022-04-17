@@ -65,5 +65,13 @@ module.exports = app => {
     agent: false,
   };
 
+  exports.cluster = {
+    listen: {
+      path: '',
+      port: 7002,
+      hostname: '127.0.0.1'
+    }
+  }
+
   return exports;
 };

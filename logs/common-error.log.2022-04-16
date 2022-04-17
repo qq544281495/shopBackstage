@@ -1,0 +1,380 @@
+2022-04-16 17:21:39,068 ERROR 9968 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:220:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:23:25,643 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\page\\admin\\login"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:23:25,651 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\page\\admin\\home\\view\\write"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:24:42,870 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\framework\\network"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:24:42,873 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\framework\\plugin"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:24:42,877 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\framework\\entry"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:24:42,887 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\framework"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:24:42,889 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\framework\\i18n\\site"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:24:42,892 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\framework\\i18n"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:24:42,895 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\framework\\i18n\\admin"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:25:26,687 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\component\\MarkdownEditor"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:25:26,692 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\component\\layout\\index\\header"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:25:26,694 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\component\\layout\\index\\footer"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:25:26,698 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\component\\layout\\index\\content"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:25:26,702 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\component\\layout\\admin\\content"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:25:26,706 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\component\\layout\\admin\\header"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:25:26,709 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\component\\layout\\admin\\footer"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:25:26,711 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\component\\layout\\admin\\menu"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:25:26,716 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\component\\layout\\index"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:25:26,720 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\component\\layout\\admin"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:26:05,510 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\layout\\index\\header"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:26:05,513 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\layout\\index\\footer"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:26:05,517 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\layout\\index\\content"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:26:05,522 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\layout\\index"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:26:05,525 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\layout"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:28:33,459 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\web\\asset"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:30:26,011 ERROR 9968 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\shopBackstage\\app\\controller\\index"
+name: "EPERMError"
+pid: 9968
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:32:10,563 ERROR 5092 [-/127.0.0.1/-/8ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'getArtilceList')
+    at IndexController.index (E:\shopBackstage\app\controller\index.js:6:41)
+    at Object.callFn (E:\shopBackstage\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\shopBackstage\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\shopBackstage\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\shopBackstage\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\shopBackstage\node_modules\koa-compose\index.js:44:32)
+    at next (E:\shopBackstage\node_modules\koa-compose\index.js:45:18)
+    at E:\shopBackstage\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (E:\shopBackstage\node_modules\koa-compose\index.js:44:32)
+    at E:\shopBackstage\node_modules\koa-compose\index.js:36:12
+
+pid: 5092
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:33:58,616 ERROR 3684 [-/127.0.0.1/-/17ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'getArtilceList')
+    at LoginController.index (E:\shopBackstage\app\controller\login.js:6:41)
+    at Object.callFn (E:\shopBackstage\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\shopBackstage\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\shopBackstage\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\shopBackstage\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\shopBackstage\node_modules\koa-compose\index.js:44:32)
+    at next (E:\shopBackstage\node_modules\koa-compose\index.js:45:18)
+    at E:\shopBackstage\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (E:\shopBackstage\node_modules\koa-compose\index.js:44:32)
+    at E:\shopBackstage\node_modules\koa-compose\index.js:36:12
+
+pid: 3684
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:34:48,073 ERROR 5640 [-/127.0.0.1/-/14ms GET /] nodejs.ReferenceError: result is not defined
+    at LoginController.index (E:\shopBackstage\app\controller\login.js:6:45)
+    at Object.callFn (E:\shopBackstage\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\shopBackstage\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\shopBackstage\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\shopBackstage\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\shopBackstage\node_modules\koa-compose\index.js:44:32)
+    at next (E:\shopBackstage\node_modules\koa-compose\index.js:45:18)
+    at E:\shopBackstage\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (E:\shopBackstage\node_modules\koa-compose\index.js:44:32)
+    at E:\shopBackstage\node_modules\koa-compose\index.js:36:12
+
+pid: 5640
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 18:59:08,188 ERROR 1972 [-/127.0.0.1/-/15ms POST /loginVerify] nodejs.ReferenceError: error is not defined
+    at loginService.loginVerify (E:\shopBackstage\app\service\login.js:10:25)
+    at LoginController.loginVerify (E:\shopBackstage\app\controller\login.js:13:44)
+    at Object.callFn (E:\shopBackstage\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\shopBackstage\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\shopBackstage\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\shopBackstage\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\shopBackstage\node_modules\koa-compose\index.js:44:32)
+    at next (E:\shopBackstage\node_modules\koa-compose\index.js:45:18)
+    at E:\shopBackstage\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (E:\shopBackstage\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 1972
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 18:59:58,562 ERROR 11024 [-/127.0.0.1/-/12ms POST /loginVerify] nodejs.ReferenceError: error is not defined
+    at loginService.loginVerify (E:\shopBackstage\app\service\login.js:10:25)
+    at LoginController.loginVerify (E:\shopBackstage\app\controller\login.js:13:44)
+    at Object.callFn (E:\shopBackstage\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\shopBackstage\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\shopBackstage\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\shopBackstage\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\shopBackstage\node_modules\koa-compose\index.js:44:32)
+    at next (E:\shopBackstage\node_modules\koa-compose\index.js:45:18)
+    at E:\shopBackstage\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (E:\shopBackstage\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 11024
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 19:19:43,818 ERROR 12716 [backstage/index.js] server render bundle error, try client render, the server render error Error: read webpack memory file[E:\shopBackstage\app\view\backstage\index.js] content is empty, please check if the file exists
+    at E:\shopBackstage\node_modules\egg-webpack-vue\app.js:20:17
+    at Generator.next (<anonymous>)
+    at onFulfilled (E:\shopBackstage\node_modules\co\index.js:65:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-04-16 19:20:02,144 ERROR 12716 [backstage/index.js] server render bundle error, try client render, the server render error Error: read webpack memory file[E:\shopBackstage\app\view\backstage\index.js] content is empty, please check if the file exists
+    at E:\shopBackstage\node_modules\egg-webpack-vue\app.js:20:17
+    at Generator.next (<anonymous>)
+    at onFulfilled (E:\shopBackstage\node_modules\co\index.js:65:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)

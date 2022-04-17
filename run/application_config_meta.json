@@ -135,6 +135,13 @@
       "connectionLimit": "E:\\shopBackstage\\node_modules\\egg-mysql\\config\\config.default.js"
     }
   },
+  "cluster": {
+    "listen": {
+      "path": "E:\\shopBackstage\\config\\config.default.js",
+      "port": "E:\\shopBackstage\\config\\config.default.js",
+      "hostname": "E:\\shopBackstage\\config\\config.default.js"
+    }
+  },
   "view": {
     "cache": "E:\\shopBackstage\\config\\config.local.js",
     "root": "E:\\shopBackstage\\node_modules\\egg-view\\config\\config.default.js",
@@ -374,13 +381,6 @@
   "coreMiddleware": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
   "workerStartTimeout": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
   "serverTimeout": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
-  "cluster": {
-    "listen": {
-      "path": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
-      "port": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
-      "hostname": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"
-    }
-  },
   "clusterClient": {
     "maxWaitTime": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js",
     "responseTimeout": "E:\\shopBackstage\\node_modules\\egg\\config\\config.default.js"

@@ -1,0 +1,984 @@
+2022-04-16 16:00:49,410 INFO 10188 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 16:00:49,438 INFO 10188 [egg-multipart] stream mode enable
+2022-04-16 16:00:49,746 INFO 10188 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 16:00:49,750 INFO 10188 [egg-security] use csrf middleware
+2022-04-16 16:00:49,752 INFO 10188 [egg-security] use methodnoallow middleware
+2022-04-16 16:00:49,753 INFO 10188 [egg-security] use noopen middleware
+2022-04-16 16:00:49,754 INFO 10188 [egg-security] use nosniff middleware
+2022-04-16 16:00:49,755 INFO 10188 [egg-security] use xssProtection middleware
+2022-04-16 16:00:49,755 INFO 10188 [egg-security] use dta middleware
+2022-04-16 16:00:49,756 INFO 10188 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 16:00:49,944 INFO 10188 [egg:core] dump config after load, 139ms
+2022-04-16 16:00:49,992 INFO 10188 [egg-watcher:application] watcher start success
+2022-04-16 16:00:50,003 INFO 10188 [egg:core] dump config after ready, 8ms
+2022-04-16 17:20:59,342 INFO 14504 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:20:59,677 INFO 14504 [egg-multipart] stream mode enable
+2022-04-16 17:21:02,730 INFO 14504 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:21:02,825 INFO 14504 [egg-security] use csrf middleware
+2022-04-16 17:21:02,828 INFO 14504 [egg-security] use methodnoallow middleware
+2022-04-16 17:21:02,829 INFO 14504 [egg-security] use noopen middleware
+2022-04-16 17:21:02,831 INFO 14504 [egg-security] use nosniff middleware
+2022-04-16 17:21:02,833 INFO 14504 [egg-security] use xssProtection middleware
+2022-04-16 17:21:02,834 INFO 14504 [egg-security] use dta middleware
+2022-04-16 17:21:02,834 INFO 14504 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:21:02,924 INFO 14504 [egg:core] dump config after load, 42ms
+2022-04-16 17:21:02,945 INFO 14504 [egg-watcher:application] watcher start success
+2022-04-16 17:21:02,963 INFO 14504 [egg:core] dump config after ready, 14ms
+2022-04-16 17:21:17,414 INFO 8040 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:21:17,444 INFO 8040 [egg-multipart] stream mode enable
+2022-04-16 17:21:17,542 INFO 8040 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:21:17,544 INFO 8040 [egg-security] use methodnoallow middleware
+2022-04-16 17:21:17,544 INFO 8040 [egg-security] use noopen middleware
+2022-04-16 17:21:17,545 INFO 8040 [egg-security] use nosniff middleware
+2022-04-16 17:21:17,546 INFO 8040 [egg-security] use xssProtection middleware
+2022-04-16 17:21:17,546 INFO 8040 [egg-security] use xframe middleware
+2022-04-16 17:21:17,547 INFO 8040 [egg-security] use dta middleware
+2022-04-16 17:21:17,547 INFO 8040 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:21:17,561 INFO 8040 [egg:core] dump config after load, 6ms
+2022-04-16 17:21:17,572 INFO 8040 [egg-watcher:application] watcher start success
+2022-04-16 17:21:17,579 INFO 8040 [egg:core] dump config after ready, 5ms
+2022-04-16 17:21:19,363 INFO 5596 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:21:19,390 INFO 5596 [egg-multipart] stream mode enable
+2022-04-16 17:21:19,480 INFO 5596 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:21:19,482 INFO 5596 [egg-security] use methodnoallow middleware
+2022-04-16 17:21:19,483 INFO 5596 [egg-security] use noopen middleware
+2022-04-16 17:21:19,483 INFO 5596 [egg-security] use nosniff middleware
+2022-04-16 17:21:19,484 INFO 5596 [egg-security] use xssProtection middleware
+2022-04-16 17:21:19,484 INFO 5596 [egg-security] use xframe middleware
+2022-04-16 17:21:19,485 INFO 5596 [egg-security] use dta middleware
+2022-04-16 17:21:19,485 INFO 5596 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:21:19,499 INFO 5596 [egg:core] dump config after load, 6ms
+2022-04-16 17:21:19,509 INFO 5596 [egg-watcher:application] watcher start success
+2022-04-16 17:21:19,517 INFO 5596 [egg:core] dump config after ready, 5ms
+2022-04-16 17:21:33,438 INFO 9700 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:21:33,471 INFO 9700 [egg-multipart] stream mode enable
+2022-04-16 17:21:33,580 INFO 9700 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:21:33,583 INFO 9700 [egg-security] use methodnoallow middleware
+2022-04-16 17:21:33,583 INFO 9700 [egg-security] use noopen middleware
+2022-04-16 17:21:33,584 INFO 9700 [egg-security] use nosniff middleware
+2022-04-16 17:21:33,584 INFO 9700 [egg-security] use xssProtection middleware
+2022-04-16 17:21:33,585 INFO 9700 [egg-security] use xframe middleware
+2022-04-16 17:21:33,585 INFO 9700 [egg-security] use dta middleware
+2022-04-16 17:21:33,585 INFO 9700 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:21:33,604 INFO 9700 [egg:core] dump config after load, 6ms
+2022-04-16 17:21:34,372 INFO 9700 [egg-watcher:application] watcher start success
+2022-04-16 17:21:34,492 INFO 9700 [egg:core] dump config after ready, 113ms
+2022-04-16 17:21:36,559 INFO 9628 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:21:36,589 INFO 9628 [egg-multipart] stream mode enable
+2022-04-16 17:21:36,696 INFO 9628 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:21:36,698 INFO 9628 [egg-security] use methodnoallow middleware
+2022-04-16 17:21:36,699 INFO 9628 [egg-security] use noopen middleware
+2022-04-16 17:21:36,699 INFO 9628 [egg-security] use nosniff middleware
+2022-04-16 17:21:36,700 INFO 9628 [egg-security] use xssProtection middleware
+2022-04-16 17:21:36,700 INFO 9628 [egg-security] use xframe middleware
+2022-04-16 17:21:36,701 INFO 9628 [egg-security] use dta middleware
+2022-04-16 17:21:36,701 INFO 9628 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:21:36,716 INFO 9628 [egg:core] dump config after load, 5ms
+2022-04-16 17:21:36,730 INFO 9628 [egg-watcher:application] watcher start success
+2022-04-16 17:21:36,738 INFO 9628 [egg:core] dump config after ready, 6ms
+2022-04-16 17:21:40,889 INFO 10164 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:21:40,919 INFO 10164 [egg-multipart] stream mode enable
+2022-04-16 17:21:41,019 INFO 10164 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:21:41,021 INFO 10164 [egg-security] use methodnoallow middleware
+2022-04-16 17:21:41,021 INFO 10164 [egg-security] use noopen middleware
+2022-04-16 17:21:41,022 INFO 10164 [egg-security] use nosniff middleware
+2022-04-16 17:21:41,022 INFO 10164 [egg-security] use xssProtection middleware
+2022-04-16 17:21:41,023 INFO 10164 [egg-security] use xframe middleware
+2022-04-16 17:21:41,023 INFO 10164 [egg-security] use dta middleware
+2022-04-16 17:21:41,023 INFO 10164 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:21:41,038 INFO 10164 [egg:core] dump config after load, 5ms
+2022-04-16 17:21:41,049 INFO 10164 [egg-watcher:application] watcher start success
+2022-04-16 17:21:41,056 INFO 10164 [egg:core] dump config after ready, 5ms
+2022-04-16 17:21:50,507 INFO 9340 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:21:50,539 INFO 9340 [egg-multipart] stream mode enable
+2022-04-16 17:21:50,645 INFO 9340 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:21:50,647 INFO 9340 [egg-security] use methodnoallow middleware
+2022-04-16 17:21:50,648 INFO 9340 [egg-security] use noopen middleware
+2022-04-16 17:21:50,648 INFO 9340 [egg-security] use nosniff middleware
+2022-04-16 17:21:50,649 INFO 9340 [egg-security] use xssProtection middleware
+2022-04-16 17:21:50,649 INFO 9340 [egg-security] use xframe middleware
+2022-04-16 17:21:50,650 INFO 9340 [egg-security] use dta middleware
+2022-04-16 17:21:50,650 INFO 9340 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:21:50,664 INFO 9340 [egg:core] dump config after load, 5ms
+2022-04-16 17:21:50,679 INFO 9340 [egg-watcher:application] watcher start success
+2022-04-16 17:21:50,688 INFO 9340 [egg:core] dump config after ready, 7ms
+2022-04-16 17:29:18,821 INFO 15232 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:29:18,847 INFO 15232 [egg-multipart] stream mode enable
+2022-04-16 17:29:18,935 INFO 15232 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:29:18,937 INFO 15232 [egg-security] use methodnoallow middleware
+2022-04-16 17:29:18,938 INFO 15232 [egg-security] use noopen middleware
+2022-04-16 17:29:18,939 INFO 15232 [egg-security] use nosniff middleware
+2022-04-16 17:29:18,939 INFO 15232 [egg-security] use xssProtection middleware
+2022-04-16 17:29:18,939 INFO 15232 [egg-security] use xframe middleware
+2022-04-16 17:29:18,940 INFO 15232 [egg-security] use dta middleware
+2022-04-16 17:29:18,940 INFO 15232 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:29:18,954 INFO 15232 [egg:core] dump config after load, 5ms
+2022-04-16 17:29:18,964 INFO 15232 [egg-watcher:application] watcher start success
+2022-04-16 17:29:18,972 INFO 15232 [egg:core] dump config after ready, 5ms
+2022-04-16 17:29:28,475 INFO 12396 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:29:28,503 INFO 12396 [egg-multipart] stream mode enable
+2022-04-16 17:29:28,591 INFO 12396 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:29:28,593 INFO 12396 [egg-security] use methodnoallow middleware
+2022-04-16 17:29:28,593 INFO 12396 [egg-security] use noopen middleware
+2022-04-16 17:29:28,594 INFO 12396 [egg-security] use nosniff middleware
+2022-04-16 17:29:28,595 INFO 12396 [egg-security] use xssProtection middleware
+2022-04-16 17:29:28,595 INFO 12396 [egg-security] use xframe middleware
+2022-04-16 17:29:28,595 INFO 12396 [egg-security] use dta middleware
+2022-04-16 17:29:28,595 INFO 12396 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:29:28,609 INFO 12396 [egg:core] dump config after load, 5ms
+2022-04-16 17:29:28,620 INFO 12396 [egg-watcher:application] watcher start success
+2022-04-16 17:29:28,627 INFO 12396 [egg:core] dump config after ready, 6ms
+2022-04-16 17:29:49,970 INFO 15036 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:29:50,003 INFO 15036 [egg-multipart] stream mode enable
+2022-04-16 17:29:50,110 INFO 15036 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:29:50,113 INFO 15036 [egg-security] use methodnoallow middleware
+2022-04-16 17:29:50,113 INFO 15036 [egg-security] use noopen middleware
+2022-04-16 17:29:50,114 INFO 15036 [egg-security] use nosniff middleware
+2022-04-16 17:29:50,115 INFO 15036 [egg-security] use xssProtection middleware
+2022-04-16 17:29:50,115 INFO 15036 [egg-security] use xframe middleware
+2022-04-16 17:29:50,116 INFO 15036 [egg-security] use dta middleware
+2022-04-16 17:29:50,116 INFO 15036 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:29:50,134 INFO 15036 [egg:core] dump config after load, 6ms
+2022-04-16 17:29:50,146 INFO 15036 [egg-watcher:application] watcher start success
+2022-04-16 17:29:50,153 INFO 15036 [egg:core] dump config after ready, 5ms
+2022-04-16 17:30:13,504 INFO 14396 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:30:13,527 INFO 14396 [egg-multipart] stream mode enable
+2022-04-16 17:30:13,616 INFO 14396 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:30:13,618 INFO 14396 [egg-security] use methodnoallow middleware
+2022-04-16 17:30:13,619 INFO 14396 [egg-security] use noopen middleware
+2022-04-16 17:30:13,619 INFO 14396 [egg-security] use nosniff middleware
+2022-04-16 17:30:13,620 INFO 14396 [egg-security] use xssProtection middleware
+2022-04-16 17:30:13,621 INFO 14396 [egg-security] use xframe middleware
+2022-04-16 17:30:13,621 INFO 14396 [egg-security] use dta middleware
+2022-04-16 17:30:13,621 INFO 14396 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:30:13,636 INFO 14396 [egg:core] dump config after load, 7ms
+2022-04-16 17:30:13,646 INFO 14396 [egg-watcher:application] watcher start success
+2022-04-16 17:30:13,654 INFO 14396 [egg:core] dump config after ready, 5ms
+2022-04-16 17:30:54,663 INFO 10672 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:30:54,706 INFO 10672 [egg-multipart] stream mode enable
+2022-04-16 17:30:54,803 INFO 10672 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:30:54,805 INFO 10672 [egg-security] use methodnoallow middleware
+2022-04-16 17:30:54,806 INFO 10672 [egg-security] use noopen middleware
+2022-04-16 17:30:54,806 INFO 10672 [egg-security] use nosniff middleware
+2022-04-16 17:30:54,807 INFO 10672 [egg-security] use xssProtection middleware
+2022-04-16 17:30:54,807 INFO 10672 [egg-security] use xframe middleware
+2022-04-16 17:30:54,807 INFO 10672 [egg-security] use dta middleware
+2022-04-16 17:30:54,807 INFO 10672 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:30:54,819 INFO 10672 [egg:core] dump config after load, 6ms
+2022-04-16 17:30:54,830 INFO 10672 [egg-watcher:application] watcher start success
+2022-04-16 17:30:54,838 INFO 10672 [egg:core] dump config after ready, 6ms
+2022-04-16 17:31:14,130 INFO 5092 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:31:14,154 INFO 5092 [egg-multipart] stream mode enable
+2022-04-16 17:31:14,244 INFO 5092 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:31:14,246 INFO 5092 [egg-security] use methodnoallow middleware
+2022-04-16 17:31:14,246 INFO 5092 [egg-security] use noopen middleware
+2022-04-16 17:31:14,247 INFO 5092 [egg-security] use nosniff middleware
+2022-04-16 17:31:14,247 INFO 5092 [egg-security] use xssProtection middleware
+2022-04-16 17:31:14,248 INFO 5092 [egg-security] use xframe middleware
+2022-04-16 17:31:14,248 INFO 5092 [egg-security] use dta middleware
+2022-04-16 17:31:14,248 INFO 5092 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:31:14,265 INFO 5092 [egg:core] dump config after load, 11ms
+2022-04-16 17:31:14,290 INFO 5092 [egg-watcher:application] watcher start success
+2022-04-16 17:31:14,299 INFO 5092 [egg:core] dump config after ready, 7ms
+2022-04-16 17:32:35,306 INFO 12252 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:32:35,331 INFO 12252 [egg-multipart] stream mode enable
+2022-04-16 17:32:35,431 INFO 12252 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:32:35,434 INFO 12252 [egg-security] use methodnoallow middleware
+2022-04-16 17:32:35,435 INFO 12252 [egg-security] use noopen middleware
+2022-04-16 17:32:35,436 INFO 12252 [egg-security] use nosniff middleware
+2022-04-16 17:32:35,436 INFO 12252 [egg-security] use xssProtection middleware
+2022-04-16 17:32:35,436 INFO 12252 [egg-security] use xframe middleware
+2022-04-16 17:32:35,437 INFO 12252 [egg-security] use dta middleware
+2022-04-16 17:32:35,437 INFO 12252 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:32:35,451 INFO 12252 [egg:core] dump config after load, 8ms
+2022-04-16 17:32:35,463 INFO 12252 [egg-watcher:application] watcher start success
+2022-04-16 17:32:35,474 INFO 12252 [egg:core] dump config after ready, 9ms
+2022-04-16 17:33:41,187 INFO 14228 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:33:41,215 INFO 14228 [egg-multipart] stream mode enable
+2022-04-16 17:33:41,351 INFO 14228 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:33:41,353 INFO 14228 [egg-security] use methodnoallow middleware
+2022-04-16 17:33:41,354 INFO 14228 [egg-security] use noopen middleware
+2022-04-16 17:33:41,354 INFO 14228 [egg-security] use nosniff middleware
+2022-04-16 17:33:41,355 INFO 14228 [egg-security] use xssProtection middleware
+2022-04-16 17:33:41,355 INFO 14228 [egg-security] use xframe middleware
+2022-04-16 17:33:41,356 INFO 14228 [egg-security] use dta middleware
+2022-04-16 17:33:41,356 INFO 14228 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:33:41,369 INFO 14228 [egg:core] dump config after load, 7ms
+2022-04-16 17:33:41,381 INFO 14228 [egg-watcher:application] watcher start success
+2022-04-16 17:33:41,392 INFO 14228 [egg:core] dump config after ready, 8ms
+2022-04-16 17:33:48,908 INFO 3684 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:33:48,934 INFO 3684 [egg-multipart] stream mode enable
+2022-04-16 17:33:49,031 INFO 3684 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:33:49,033 INFO 3684 [egg-security] use methodnoallow middleware
+2022-04-16 17:33:49,033 INFO 3684 [egg-security] use noopen middleware
+2022-04-16 17:33:49,034 INFO 3684 [egg-security] use nosniff middleware
+2022-04-16 17:33:49,034 INFO 3684 [egg-security] use xssProtection middleware
+2022-04-16 17:33:49,035 INFO 3684 [egg-security] use xframe middleware
+2022-04-16 17:33:49,035 INFO 3684 [egg-security] use dta middleware
+2022-04-16 17:33:49,035 INFO 3684 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:33:49,045 INFO 3684 [egg:core] dump config after load, 4ms
+2022-04-16 17:33:49,058 INFO 3684 [egg-watcher:application] watcher start success
+2022-04-16 17:33:49,065 INFO 3684 [egg:core] dump config after ready, 5ms
+2022-04-16 17:34:29,140 INFO 13180 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:34:29,164 INFO 13180 [egg-multipart] stream mode enable
+2022-04-16 17:34:29,255 INFO 13180 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:34:29,257 INFO 13180 [egg-security] use methodnoallow middleware
+2022-04-16 17:34:29,258 INFO 13180 [egg-security] use noopen middleware
+2022-04-16 17:34:29,258 INFO 13180 [egg-security] use nosniff middleware
+2022-04-16 17:34:29,259 INFO 13180 [egg-security] use xssProtection middleware
+2022-04-16 17:34:29,259 INFO 13180 [egg-security] use xframe middleware
+2022-04-16 17:34:29,260 INFO 13180 [egg-security] use dta middleware
+2022-04-16 17:34:29,260 INFO 13180 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:34:29,274 INFO 13180 [egg:core] dump config after load, 8ms
+2022-04-16 17:34:29,287 INFO 13180 [egg-watcher:application] watcher start success
+2022-04-16 17:34:29,295 INFO 13180 [egg:core] dump config after ready, 6ms
+2022-04-16 17:34:39,520 INFO 5640 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:34:39,545 INFO 5640 [egg-multipart] stream mode enable
+2022-04-16 17:34:39,635 INFO 5640 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:34:39,637 INFO 5640 [egg-security] use methodnoallow middleware
+2022-04-16 17:34:39,637 INFO 5640 [egg-security] use noopen middleware
+2022-04-16 17:34:39,638 INFO 5640 [egg-security] use nosniff middleware
+2022-04-16 17:34:39,638 INFO 5640 [egg-security] use xssProtection middleware
+2022-04-16 17:34:39,639 INFO 5640 [egg-security] use xframe middleware
+2022-04-16 17:34:39,639 INFO 5640 [egg-security] use dta middleware
+2022-04-16 17:34:39,639 INFO 5640 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:34:39,651 INFO 5640 [egg:core] dump config after load, 6ms
+2022-04-16 17:34:39,668 INFO 5640 [egg-watcher:application] watcher start success
+2022-04-16 17:34:39,678 INFO 5640 [egg:core] dump config after ready, 8ms
+2022-04-16 17:35:05,129 INFO 260 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:35:05,204 INFO 260 [egg-multipart] stream mode enable
+2022-04-16 17:35:05,373 INFO 260 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:35:05,378 INFO 260 [egg-security] use methodnoallow middleware
+2022-04-16 17:35:05,379 INFO 260 [egg-security] use noopen middleware
+2022-04-16 17:35:05,380 INFO 260 [egg-security] use nosniff middleware
+2022-04-16 17:35:05,381 INFO 260 [egg-security] use xssProtection middleware
+2022-04-16 17:35:05,384 INFO 260 [egg-security] use xframe middleware
+2022-04-16 17:35:05,384 INFO 260 [egg-security] use dta middleware
+2022-04-16 17:35:05,384 INFO 260 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:35:05,405 INFO 260 [egg:core] dump config after load, 11ms
+2022-04-16 17:35:05,422 INFO 260 [egg-watcher:application] watcher start success
+2022-04-16 17:35:05,431 INFO 260 [egg:core] dump config after ready, 5ms
+2022-04-16 17:35:31,412 INFO 12660 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:35:31,436 INFO 12660 [egg-multipart] stream mode enable
+2022-04-16 17:35:31,524 INFO 12660 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:35:31,526 INFO 12660 [egg-security] use methodnoallow middleware
+2022-04-16 17:35:31,527 INFO 12660 [egg-security] use noopen middleware
+2022-04-16 17:35:31,527 INFO 12660 [egg-security] use nosniff middleware
+2022-04-16 17:35:31,528 INFO 12660 [egg-security] use xssProtection middleware
+2022-04-16 17:35:31,528 INFO 12660 [egg-security] use xframe middleware
+2022-04-16 17:35:31,529 INFO 12660 [egg-security] use dta middleware
+2022-04-16 17:35:31,529 INFO 12660 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:35:31,542 INFO 12660 [egg:core] dump config after load, 6ms
+2022-04-16 17:35:31,555 INFO 12660 [egg-watcher:application] watcher start success
+2022-04-16 17:35:31,565 INFO 12660 [egg:core] dump config after ready, 6ms
+2022-04-16 17:36:34,672 INFO 14656 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:36:34,698 INFO 14656 [egg-multipart] stream mode enable
+2022-04-16 17:36:34,786 INFO 14656 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:36:34,788 INFO 14656 [egg-security] use methodnoallow middleware
+2022-04-16 17:36:34,789 INFO 14656 [egg-security] use noopen middleware
+2022-04-16 17:36:34,789 INFO 14656 [egg-security] use nosniff middleware
+2022-04-16 17:36:34,790 INFO 14656 [egg-security] use xssProtection middleware
+2022-04-16 17:36:34,790 INFO 14656 [egg-security] use xframe middleware
+2022-04-16 17:36:34,791 INFO 14656 [egg-security] use dta middleware
+2022-04-16 17:36:34,791 INFO 14656 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:36:34,802 INFO 14656 [egg:core] dump config after load, 6ms
+2022-04-16 17:36:34,818 INFO 14656 [egg-watcher:application] watcher start success
+2022-04-16 17:36:34,828 INFO 14656 [egg:core] dump config after ready, 6ms
+2022-04-16 17:37:39,461 INFO 10816 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:37:39,485 INFO 10816 [egg-multipart] stream mode enable
+2022-04-16 17:37:39,572 INFO 10816 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:37:39,574 INFO 10816 [egg-security] use methodnoallow middleware
+2022-04-16 17:37:39,575 INFO 10816 [egg-security] use noopen middleware
+2022-04-16 17:37:39,576 INFO 10816 [egg-security] use nosniff middleware
+2022-04-16 17:37:39,576 INFO 10816 [egg-security] use xssProtection middleware
+2022-04-16 17:37:39,577 INFO 10816 [egg-security] use xframe middleware
+2022-04-16 17:37:39,577 INFO 10816 [egg-security] use dta middleware
+2022-04-16 17:37:39,577 INFO 10816 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:37:39,589 INFO 10816 [egg:core] dump config after load, 6ms
+2022-04-16 17:37:39,606 INFO 10816 [egg-watcher:application] watcher start success
+2022-04-16 17:37:39,615 INFO 10816 [egg:core] dump config after ready, 7ms
+2022-04-16 17:47:23,449 INFO 8700 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:47:23,475 INFO 8700 [egg-multipart] stream mode enable
+2022-04-16 17:47:23,580 INFO 8700 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:47:23,585 INFO 8700 [egg-security] use methodnoallow middleware
+2022-04-16 17:47:23,586 INFO 8700 [egg-security] use noopen middleware
+2022-04-16 17:47:23,588 INFO 8700 [egg-security] use nosniff middleware
+2022-04-16 17:47:23,590 INFO 8700 [egg-security] use xssProtection middleware
+2022-04-16 17:47:23,591 INFO 8700 [egg-security] use xframe middleware
+2022-04-16 17:47:23,593 INFO 8700 [egg-security] use dta middleware
+2022-04-16 17:47:23,593 INFO 8700 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:47:23,611 INFO 8700 [egg:core] dump config after load, 6ms
+2022-04-16 17:47:23,629 INFO 8700 [egg-watcher:application] watcher start success
+2022-04-16 17:47:23,642 INFO 8700 [egg:core] dump config after ready, 7ms
+2022-04-16 17:48:12,499 INFO 556 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 17:48:12,523 INFO 556 [egg-multipart] stream mode enable
+2022-04-16 17:48:12,611 INFO 556 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 17:48:12,613 INFO 556 [egg-security] use methodnoallow middleware
+2022-04-16 17:48:12,613 INFO 556 [egg-security] use noopen middleware
+2022-04-16 17:48:12,614 INFO 556 [egg-security] use nosniff middleware
+2022-04-16 17:48:12,614 INFO 556 [egg-security] use xssProtection middleware
+2022-04-16 17:48:12,615 INFO 556 [egg-security] use xframe middleware
+2022-04-16 17:48:12,615 INFO 556 [egg-security] use dta middleware
+2022-04-16 17:48:12,615 INFO 556 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 17:48:12,627 INFO 556 [egg:core] dump config after load, 6ms
+2022-04-16 17:48:12,642 INFO 556 [egg-watcher:application] watcher start success
+2022-04-16 17:48:12,651 INFO 556 [egg:core] dump config after ready, 8ms
+2022-04-16 18:14:53,470 INFO 5712 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 18:14:53,509 INFO 5712 [egg-multipart] stream mode enable
+2022-04-16 18:14:54,615 INFO 5712 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 18:14:54,620 INFO 5712 [egg-security] use methodnoallow middleware
+2022-04-16 18:14:54,621 INFO 5712 [egg-security] use noopen middleware
+2022-04-16 18:14:54,622 INFO 5712 [egg-security] use nosniff middleware
+2022-04-16 18:14:54,623 INFO 5712 [egg-security] use xssProtection middleware
+2022-04-16 18:14:54,624 INFO 5712 [egg-security] use xframe middleware
+2022-04-16 18:14:54,625 INFO 5712 [egg-security] use dta middleware
+2022-04-16 18:14:54,625 INFO 5712 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 18:14:54,671 INFO 5712 [egg:core] dump config after load, 9ms
+2022-04-16 18:14:54,690 INFO 5712 [egg-watcher:application] watcher start success
+2022-04-16 18:14:54,700 INFO 5712 [egg:core] dump config after ready, 8ms
+2022-04-16 18:48:39,057 INFO 13928 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 18:48:39,088 INFO 13928 [egg-multipart] stream mode enable
+2022-04-16 18:48:39,590 INFO 13928 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 18:48:39,593 INFO 13928 [egg-security] use methodnoallow middleware
+2022-04-16 18:48:39,594 INFO 13928 [egg-security] use noopen middleware
+2022-04-16 18:48:39,595 INFO 13928 [egg-security] use nosniff middleware
+2022-04-16 18:48:39,595 INFO 13928 [egg-security] use xssProtection middleware
+2022-04-16 18:48:39,596 INFO 13928 [egg-security] use xframe middleware
+2022-04-16 18:48:39,596 INFO 13928 [egg-security] use dta middleware
+2022-04-16 18:48:39,596 INFO 13928 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 18:48:39,608 INFO 13928 [egg:core] dump config after load, 6ms
+2022-04-16 18:48:39,622 INFO 13928 [egg-watcher:application] watcher start success
+2022-04-16 18:48:39,631 INFO 13928 [egg:core] dump config after ready, 7ms
+2022-04-16 18:52:11,991 INFO 10960 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 18:52:12,022 INFO 10960 [egg-multipart] stream mode enable
+2022-04-16 18:52:12,137 INFO 10960 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 18:52:12,139 INFO 10960 [egg-security] use methodnoallow middleware
+2022-04-16 18:52:12,139 INFO 10960 [egg-security] use noopen middleware
+2022-04-16 18:52:12,140 INFO 10960 [egg-security] use nosniff middleware
+2022-04-16 18:52:12,140 INFO 10960 [egg-security] use xssProtection middleware
+2022-04-16 18:52:12,141 INFO 10960 [egg-security] use xframe middleware
+2022-04-16 18:52:12,141 INFO 10960 [egg-security] use dta middleware
+2022-04-16 18:52:12,141 INFO 10960 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 18:52:12,153 INFO 10960 [egg:core] dump config after load, 6ms
+2022-04-16 18:52:12,163 INFO 10960 [egg-watcher:application] watcher start success
+2022-04-16 18:52:12,172 INFO 10960 [egg:core] dump config after ready, 7ms
+2022-04-16 18:53:14,058 INFO 11328 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 18:53:14,082 INFO 11328 [egg-multipart] stream mode enable
+2022-04-16 18:53:14,168 INFO 11328 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 18:53:14,170 INFO 11328 [egg-security] use methodnoallow middleware
+2022-04-16 18:53:14,170 INFO 11328 [egg-security] use noopen middleware
+2022-04-16 18:53:14,171 INFO 11328 [egg-security] use nosniff middleware
+2022-04-16 18:53:14,171 INFO 11328 [egg-security] use xssProtection middleware
+2022-04-16 18:53:14,172 INFO 11328 [egg-security] use xframe middleware
+2022-04-16 18:53:14,172 INFO 11328 [egg-security] use dta middleware
+2022-04-16 18:53:14,172 INFO 11328 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 18:53:14,187 INFO 11328 [egg:core] dump config after load, 9ms
+2022-04-16 18:53:14,199 INFO 11328 [egg-watcher:application] watcher start success
+2022-04-16 18:53:14,207 INFO 11328 [egg:core] dump config after ready, 5ms
+2022-04-16 18:53:15,922 INFO 11284 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 18:53:15,948 INFO 11284 [egg-multipart] stream mode enable
+2022-04-16 18:53:16,039 INFO 11284 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 18:53:16,041 INFO 11284 [egg-security] use methodnoallow middleware
+2022-04-16 18:53:16,041 INFO 11284 [egg-security] use noopen middleware
+2022-04-16 18:53:16,042 INFO 11284 [egg-security] use nosniff middleware
+2022-04-16 18:53:16,042 INFO 11284 [egg-security] use xssProtection middleware
+2022-04-16 18:53:16,043 INFO 11284 [egg-security] use xframe middleware
+2022-04-16 18:53:16,043 INFO 11284 [egg-security] use dta middleware
+2022-04-16 18:53:16,043 INFO 11284 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 18:53:16,055 INFO 11284 [egg:core] dump config after load, 6ms
+2022-04-16 18:53:16,067 INFO 11284 [egg-watcher:application] watcher start success
+2022-04-16 18:53:16,074 INFO 11284 [egg:core] dump config after ready, 6ms
+2022-04-16 18:53:30,814 INFO 4908 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 18:53:30,839 INFO 4908 [egg-multipart] stream mode enable
+2022-04-16 18:53:30,932 INFO 4908 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 18:53:30,934 INFO 4908 [egg-security] use methodnoallow middleware
+2022-04-16 18:53:30,934 INFO 4908 [egg-security] use noopen middleware
+2022-04-16 18:53:30,935 INFO 4908 [egg-security] use nosniff middleware
+2022-04-16 18:53:30,935 INFO 4908 [egg-security] use xssProtection middleware
+2022-04-16 18:53:30,936 INFO 4908 [egg-security] use xframe middleware
+2022-04-16 18:53:30,936 INFO 4908 [egg-security] use dta middleware
+2022-04-16 18:53:30,936 INFO 4908 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 18:53:30,947 INFO 4908 [egg:core] dump config after load, 5ms
+2022-04-16 18:53:30,958 INFO 4908 [egg-watcher:application] watcher start success
+2022-04-16 18:53:30,965 INFO 4908 [egg:core] dump config after ready, 5ms
+2022-04-16 18:53:47,721 INFO 6184 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 18:53:47,745 INFO 6184 [egg-multipart] stream mode enable
+2022-04-16 18:53:47,834 INFO 6184 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 18:53:47,836 INFO 6184 [egg-security] use methodnoallow middleware
+2022-04-16 18:53:47,837 INFO 6184 [egg-security] use noopen middleware
+2022-04-16 18:53:47,838 INFO 6184 [egg-security] use nosniff middleware
+2022-04-16 18:53:47,838 INFO 6184 [egg-security] use xssProtection middleware
+2022-04-16 18:53:47,838 INFO 6184 [egg-security] use xframe middleware
+2022-04-16 18:53:47,839 INFO 6184 [egg-security] use dta middleware
+2022-04-16 18:53:47,839 INFO 6184 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 18:53:47,851 INFO 6184 [egg:core] dump config after load, 5ms
+2022-04-16 18:53:47,862 INFO 6184 [egg-watcher:application] watcher start success
+2022-04-16 18:53:47,869 INFO 6184 [egg:core] dump config after ready, 5ms
+2022-04-16 18:53:54,856 INFO 9988 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 18:53:54,879 INFO 9988 [egg-multipart] stream mode enable
+2022-04-16 18:53:54,965 INFO 9988 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 18:53:54,967 INFO 9988 [egg-security] use methodnoallow middleware
+2022-04-16 18:53:54,968 INFO 9988 [egg-security] use noopen middleware
+2022-04-16 18:53:54,968 INFO 9988 [egg-security] use nosniff middleware
+2022-04-16 18:53:54,969 INFO 9988 [egg-security] use xssProtection middleware
+2022-04-16 18:53:54,970 INFO 9988 [egg-security] use xframe middleware
+2022-04-16 18:53:54,970 INFO 9988 [egg-security] use dta middleware
+2022-04-16 18:53:54,970 INFO 9988 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 18:53:54,985 INFO 9988 [egg:core] dump config after load, 7ms
+2022-04-16 18:53:54,998 INFO 9988 [egg-watcher:application] watcher start success
+2022-04-16 18:53:55,005 INFO 9988 [egg:core] dump config after ready, 5ms
+2022-04-16 18:54:36,419 INFO 260 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 18:54:36,449 INFO 260 [egg-multipart] stream mode enable
+2022-04-16 18:54:36,551 INFO 260 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 18:54:36,553 INFO 260 [egg-security] use methodnoallow middleware
+2022-04-16 18:54:36,553 INFO 260 [egg-security] use noopen middleware
+2022-04-16 18:54:36,554 INFO 260 [egg-security] use nosniff middleware
+2022-04-16 18:54:36,554 INFO 260 [egg-security] use xssProtection middleware
+2022-04-16 18:54:36,555 INFO 260 [egg-security] use xframe middleware
+2022-04-16 18:54:36,555 INFO 260 [egg-security] use dta middleware
+2022-04-16 18:54:36,556 INFO 260 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 18:54:36,569 INFO 260 [egg:core] dump config after load, 8ms
+2022-04-16 18:54:36,582 INFO 260 [egg-watcher:application] watcher start success
+2022-04-16 18:54:36,590 INFO 260 [egg:core] dump config after ready, 7ms
+2022-04-16 18:55:17,802 INFO 6360 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 18:55:17,828 INFO 6360 [egg-multipart] stream mode enable
+2022-04-16 18:55:17,922 INFO 6360 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 18:55:17,924 INFO 6360 [egg-security] use methodnoallow middleware
+2022-04-16 18:55:17,925 INFO 6360 [egg-security] use noopen middleware
+2022-04-16 18:55:17,925 INFO 6360 [egg-security] use nosniff middleware
+2022-04-16 18:55:17,926 INFO 6360 [egg-security] use xssProtection middleware
+2022-04-16 18:55:17,926 INFO 6360 [egg-security] use xframe middleware
+2022-04-16 18:55:17,927 INFO 6360 [egg-security] use dta middleware
+2022-04-16 18:55:17,927 INFO 6360 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 18:55:17,938 INFO 6360 [egg:core] dump config after load, 6ms
+2022-04-16 18:55:17,950 INFO 6360 [egg-watcher:application] watcher start success
+2022-04-16 18:55:17,957 INFO 6360 [egg:core] dump config after ready, 5ms
+2022-04-16 18:57:56,022 INFO 3808 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 18:57:56,053 INFO 3808 [egg-multipart] stream mode enable
+2022-04-16 18:57:56,150 INFO 3808 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 18:57:56,152 INFO 3808 [egg-security] use methodnoallow middleware
+2022-04-16 18:57:56,153 INFO 3808 [egg-security] use noopen middleware
+2022-04-16 18:57:56,154 INFO 3808 [egg-security] use nosniff middleware
+2022-04-16 18:57:56,154 INFO 3808 [egg-security] use xssProtection middleware
+2022-04-16 18:57:56,155 INFO 3808 [egg-security] use xframe middleware
+2022-04-16 18:57:56,155 INFO 3808 [egg-security] use dta middleware
+2022-04-16 18:57:56,155 INFO 3808 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 18:57:56,166 INFO 3808 [egg:core] dump config after load, 5ms
+2022-04-16 18:57:56,180 INFO 3808 [egg-watcher:application] watcher start success
+2022-04-16 18:57:56,190 INFO 3808 [egg:core] dump config after ready, 7ms
+2022-04-16 18:59:02,617 INFO 1972 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 18:59:02,647 INFO 1972 [egg-multipart] stream mode enable
+2022-04-16 18:59:02,753 INFO 1972 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 18:59:02,756 INFO 1972 [egg-security] use methodnoallow middleware
+2022-04-16 18:59:02,756 INFO 1972 [egg-security] use noopen middleware
+2022-04-16 18:59:02,757 INFO 1972 [egg-security] use nosniff middleware
+2022-04-16 18:59:02,757 INFO 1972 [egg-security] use xssProtection middleware
+2022-04-16 18:59:02,758 INFO 1972 [egg-security] use xframe middleware
+2022-04-16 18:59:02,758 INFO 1972 [egg-security] use dta middleware
+2022-04-16 18:59:02,758 INFO 1972 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 18:59:02,770 INFO 1972 [egg:core] dump config after load, 6ms
+2022-04-16 18:59:02,782 INFO 1972 [egg-watcher:application] watcher start success
+2022-04-16 18:59:02,792 INFO 1972 [egg:core] dump config after ready, 8ms
+2022-04-16 18:59:40,379 INFO 1304 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 18:59:40,412 INFO 1304 [egg-multipart] stream mode enable
+2022-04-16 18:59:40,534 INFO 1304 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 18:59:40,537 INFO 1304 [egg-security] use methodnoallow middleware
+2022-04-16 18:59:40,538 INFO 1304 [egg-security] use noopen middleware
+2022-04-16 18:59:40,540 INFO 1304 [egg-security] use nosniff middleware
+2022-04-16 18:59:40,541 INFO 1304 [egg-security] use xssProtection middleware
+2022-04-16 18:59:40,541 INFO 1304 [egg-security] use xframe middleware
+2022-04-16 18:59:40,543 INFO 1304 [egg-security] use dta middleware
+2022-04-16 18:59:40,543 INFO 1304 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 18:59:40,557 INFO 1304 [egg:core] dump config after load, 7ms
+2022-04-16 18:59:40,570 INFO 1304 [egg-watcher:application] watcher start success
+2022-04-16 18:59:40,581 INFO 1304 [egg:core] dump config after ready, 8ms
+2022-04-16 18:59:51,073 INFO 11024 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 18:59:51,102 INFO 11024 [egg-multipart] stream mode enable
+2022-04-16 18:59:51,212 INFO 11024 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 18:59:51,215 INFO 11024 [egg-security] use methodnoallow middleware
+2022-04-16 18:59:51,215 INFO 11024 [egg-security] use noopen middleware
+2022-04-16 18:59:51,217 INFO 11024 [egg-security] use nosniff middleware
+2022-04-16 18:59:51,217 INFO 11024 [egg-security] use xssProtection middleware
+2022-04-16 18:59:51,218 INFO 11024 [egg-security] use xframe middleware
+2022-04-16 18:59:51,219 INFO 11024 [egg-security] use dta middleware
+2022-04-16 18:59:51,219 INFO 11024 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 18:59:51,231 INFO 11024 [egg:core] dump config after load, 6ms
+2022-04-16 18:59:51,247 INFO 11024 [egg-watcher:application] watcher start success
+2022-04-16 18:59:51,256 INFO 11024 [egg:core] dump config after ready, 7ms
+2022-04-16 19:00:44,514 INFO 13932 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 19:00:44,537 INFO 13932 [egg-multipart] stream mode enable
+2022-04-16 19:00:44,624 INFO 13932 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 19:00:44,626 INFO 13932 [egg-security] use methodnoallow middleware
+2022-04-16 19:00:44,627 INFO 13932 [egg-security] use noopen middleware
+2022-04-16 19:00:44,627 INFO 13932 [egg-security] use nosniff middleware
+2022-04-16 19:00:44,628 INFO 13932 [egg-security] use xssProtection middleware
+2022-04-16 19:00:44,628 INFO 13932 [egg-security] use xframe middleware
+2022-04-16 19:00:44,628 INFO 13932 [egg-security] use dta middleware
+2022-04-16 19:00:44,628 INFO 13932 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 19:00:44,642 INFO 13932 [egg:core] dump config after load, 8ms
+2022-04-16 19:00:44,655 INFO 13932 [egg-watcher:application] watcher start success
+2022-04-16 19:00:44,662 INFO 13932 [egg:core] dump config after ready, 5ms
+2022-04-16 19:01:37,956 INFO 12256 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 19:01:38,160 INFO 12256 [egg-multipart] stream mode enable
+2022-04-16 19:01:38,403 INFO 12256 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 19:01:38,405 INFO 12256 [egg-security] use methodnoallow middleware
+2022-04-16 19:01:38,406 INFO 12256 [egg-security] use noopen middleware
+2022-04-16 19:01:38,407 INFO 12256 [egg-security] use nosniff middleware
+2022-04-16 19:01:38,407 INFO 12256 [egg-security] use xssProtection middleware
+2022-04-16 19:01:38,408 INFO 12256 [egg-security] use xframe middleware
+2022-04-16 19:01:38,408 INFO 12256 [egg-security] use dta middleware
+2022-04-16 19:01:38,408 INFO 12256 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 19:01:38,423 INFO 12256 [egg:core] dump config after load, 7ms
+2022-04-16 19:01:38,434 INFO 12256 [egg-watcher:application] watcher start success
+2022-04-16 19:01:38,442 INFO 12256 [egg:core] dump config after ready, 6ms
+2022-04-16 19:02:24,246 INFO 2696 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 19:02:24,269 INFO 2696 [egg-multipart] stream mode enable
+2022-04-16 19:02:24,362 INFO 2696 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 19:02:24,366 INFO 2696 [egg-security] use methodnoallow middleware
+2022-04-16 19:02:24,367 INFO 2696 [egg-security] use noopen middleware
+2022-04-16 19:02:24,368 INFO 2696 [egg-security] use nosniff middleware
+2022-04-16 19:02:24,368 INFO 2696 [egg-security] use xssProtection middleware
+2022-04-16 19:02:24,369 INFO 2696 [egg-security] use xframe middleware
+2022-04-16 19:02:24,369 INFO 2696 [egg-security] use dta middleware
+2022-04-16 19:02:24,369 INFO 2696 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 19:02:24,383 INFO 2696 [egg:core] dump config after load, 7ms
+2022-04-16 19:02:24,397 INFO 2696 [egg-watcher:application] watcher start success
+2022-04-16 19:02:24,405 INFO 2696 [egg:core] dump config after ready, 6ms
+2022-04-16 19:03:33,162 INFO 12984 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 19:03:33,195 INFO 12984 [egg-multipart] stream mode enable
+2022-04-16 19:03:33,196 INFO 12984 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 19:03:33,935 INFO 12984 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 19:03:33,937 INFO 12984 [egg-security] use methodnoallow middleware
+2022-04-16 19:03:33,937 INFO 12984 [egg-security] use noopen middleware
+2022-04-16 19:03:33,938 INFO 12984 [egg-security] use nosniff middleware
+2022-04-16 19:03:33,939 INFO 12984 [egg-security] use xssProtection middleware
+2022-04-16 19:03:33,939 INFO 12984 [egg-security] use xframe middleware
+2022-04-16 19:03:33,939 INFO 12984 [egg-security] use dta middleware
+2022-04-16 19:03:33,939 INFO 12984 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 19:03:33,957 INFO 12984 [egg:core] dump config after load, 11ms
+2022-04-16 19:03:33,973 INFO 12984 [egg-watcher:application] watcher start success
+2022-04-16 19:03:34,117 INFO 12984 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 19:03:34 GMT+0800 (中国标准时间)
+2022-04-16 19:03:34,131 INFO 12984 [egg:core] dump config after ready, 12ms
+2022-04-16 19:03:35,849 INFO 6760 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 19:03:35,874 INFO 6760 [egg-multipart] stream mode enable
+2022-04-16 19:03:35,875 INFO 6760 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 19:03:36,005 INFO 6760 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 19:03:36,007 INFO 6760 [egg-security] use methodnoallow middleware
+2022-04-16 19:03:36,008 INFO 6760 [egg-security] use noopen middleware
+2022-04-16 19:03:36,008 INFO 6760 [egg-security] use nosniff middleware
+2022-04-16 19:03:36,009 INFO 6760 [egg-security] use xssProtection middleware
+2022-04-16 19:03:36,009 INFO 6760 [egg-security] use xframe middleware
+2022-04-16 19:03:36,009 INFO 6760 [egg-security] use dta middleware
+2022-04-16 19:03:36,009 INFO 6760 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 19:03:36,024 INFO 6760 [egg:core] dump config after load, 9ms
+2022-04-16 19:03:36,047 INFO 6760 [egg-watcher:application] watcher start success
+2022-04-16 19:03:36,049 INFO 6760 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 19:03:36 GMT+0800 (中国标准时间)
+2022-04-16 19:03:36,058 INFO 6760 [egg:core] dump config after ready, 7ms
+2022-04-16 19:03:44,592 INFO 6248 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 19:03:44,617 INFO 6248 [egg-multipart] stream mode enable
+2022-04-16 19:03:44,618 INFO 6248 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 19:03:44,738 INFO 6248 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 19:03:44,741 INFO 6248 [egg-security] use methodnoallow middleware
+2022-04-16 19:03:44,741 INFO 6248 [egg-security] use noopen middleware
+2022-04-16 19:03:44,742 INFO 6248 [egg-security] use nosniff middleware
+2022-04-16 19:03:44,742 INFO 6248 [egg-security] use xssProtection middleware
+2022-04-16 19:03:44,743 INFO 6248 [egg-security] use xframe middleware
+2022-04-16 19:03:44,743 INFO 6248 [egg-security] use dta middleware
+2022-04-16 19:03:44,743 INFO 6248 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 19:03:44,754 INFO 6248 [egg:core] dump config after load, 5ms
+2022-04-16 19:03:44,776 INFO 6248 [egg-watcher:application] watcher start success
+2022-04-16 19:03:44,778 INFO 6248 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 19:03:44 GMT+0800 (中国标准时间)
+2022-04-16 19:03:44,788 INFO 6248 [egg:core] dump config after ready, 7ms
+2022-04-16 19:03:59,935 INFO 12212 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 19:03:59,964 INFO 12212 [egg-multipart] stream mode enable
+2022-04-16 19:03:59,966 INFO 12212 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 19:04:00,088 INFO 12212 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 19:04:00,089 INFO 12212 [egg-security] use methodnoallow middleware
+2022-04-16 19:04:00,090 INFO 12212 [egg-security] use noopen middleware
+2022-04-16 19:04:00,091 INFO 12212 [egg-security] use nosniff middleware
+2022-04-16 19:04:00,091 INFO 12212 [egg-security] use xssProtection middleware
+2022-04-16 19:04:00,092 INFO 12212 [egg-security] use xframe middleware
+2022-04-16 19:04:00,092 INFO 12212 [egg-security] use dta middleware
+2022-04-16 19:04:00,092 INFO 12212 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 19:04:00,106 INFO 12212 [egg:core] dump config after load, 8ms
+2022-04-16 19:04:00,123 INFO 12212 [egg-watcher:application] watcher start success
+2022-04-16 19:04:00,125 INFO 12212 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 19:04:00 GMT+0800 (中国标准时间)
+2022-04-16 19:04:00,136 INFO 12212 [egg:core] dump config after ready, 9ms
+2022-04-16 19:07:09,817 INFO 3880 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 19:07:09,844 INFO 3880 [egg-multipart] stream mode enable
+2022-04-16 19:07:09,845 INFO 3880 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 19:07:09,968 INFO 3880 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 19:07:09,969 INFO 3880 [egg-security] use methodnoallow middleware
+2022-04-16 19:07:09,970 INFO 3880 [egg-security] use noopen middleware
+2022-04-16 19:07:09,971 INFO 3880 [egg-security] use nosniff middleware
+2022-04-16 19:07:09,971 INFO 3880 [egg-security] use xssProtection middleware
+2022-04-16 19:07:09,971 INFO 3880 [egg-security] use xframe middleware
+2022-04-16 19:07:09,972 INFO 3880 [egg-security] use dta middleware
+2022-04-16 19:07:09,972 INFO 3880 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 19:07:09,985 INFO 3880 [egg:core] dump config after load, 7ms
+2022-04-16 19:07:10,005 INFO 3880 [egg-watcher:application] watcher start success
+2022-04-16 19:07:10,007 INFO 3880 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 19:07:10 GMT+0800 (中国标准时间)
+2022-04-16 19:07:10,015 INFO 3880 [egg:core] dump config after ready, 6ms
+2022-04-16 19:07:34,738 INFO 14452 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 19:07:34,765 INFO 14452 [egg-multipart] stream mode enable
+2022-04-16 19:07:34,766 INFO 14452 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 19:07:34,904 INFO 14452 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 19:07:34,905 INFO 14452 [egg-security] use methodnoallow middleware
+2022-04-16 19:07:34,906 INFO 14452 [egg-security] use noopen middleware
+2022-04-16 19:07:34,907 INFO 14452 [egg-security] use nosniff middleware
+2022-04-16 19:07:34,907 INFO 14452 [egg-security] use xssProtection middleware
+2022-04-16 19:07:34,907 INFO 14452 [egg-security] use xframe middleware
+2022-04-16 19:07:34,908 INFO 14452 [egg-security] use dta middleware
+2022-04-16 19:07:34,908 INFO 14452 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 19:07:34,919 INFO 14452 [egg:core] dump config after load, 6ms
+2022-04-16 19:07:34,939 INFO 14452 [egg-watcher:application] watcher start success
+2022-04-16 19:07:34,942 INFO 14452 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 19:07:34 GMT+0800 (中国标准时间)
+2022-04-16 19:07:34,949 INFO 14452 [egg:core] dump config after ready, 6ms
+2022-04-16 19:09:42,965 INFO 15108 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 19:09:43,003 INFO 15108 [egg-multipart] stream mode enable
+2022-04-16 19:09:43,004 INFO 15108 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 19:09:43,124 INFO 15108 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 19:09:43,126 INFO 15108 [egg-security] use methodnoallow middleware
+2022-04-16 19:09:43,126 INFO 15108 [egg-security] use noopen middleware
+2022-04-16 19:09:43,127 INFO 15108 [egg-security] use nosniff middleware
+2022-04-16 19:09:43,128 INFO 15108 [egg-security] use xssProtection middleware
+2022-04-16 19:09:43,128 INFO 15108 [egg-security] use xframe middleware
+2022-04-16 19:09:43,129 INFO 15108 [egg-security] use dta middleware
+2022-04-16 19:09:43,129 INFO 15108 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 19:09:43,140 INFO 15108 [egg:core] dump config after load, 5ms
+2022-04-16 19:09:43,159 INFO 15108 [egg-watcher:application] watcher start success
+2022-04-16 19:09:43,161 INFO 15108 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 19:09:43 GMT+0800 (中国标准时间)
+2022-04-16 19:09:43,172 INFO 15108 [egg:core] dump config after ready, 9ms
+2022-04-16 19:09:44,765 INFO 14828 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 19:09:44,796 INFO 14828 [egg-multipart] stream mode enable
+2022-04-16 19:09:44,797 INFO 14828 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 19:09:44,922 INFO 14828 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 19:09:44,925 INFO 14828 [egg-security] use methodnoallow middleware
+2022-04-16 19:09:44,926 INFO 14828 [egg-security] use noopen middleware
+2022-04-16 19:09:44,927 INFO 14828 [egg-security] use nosniff middleware
+2022-04-16 19:09:44,928 INFO 14828 [egg-security] use xssProtection middleware
+2022-04-16 19:09:44,929 INFO 14828 [egg-security] use xframe middleware
+2022-04-16 19:09:44,929 INFO 14828 [egg-security] use dta middleware
+2022-04-16 19:09:44,930 INFO 14828 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 19:09:44,942 INFO 14828 [egg:core] dump config after load, 6ms
+2022-04-16 19:09:44,964 INFO 14828 [egg-watcher:application] watcher start success
+2022-04-16 19:09:44,968 INFO 14828 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 19:09:44 GMT+0800 (中国标准时间)
+2022-04-16 19:09:44,976 INFO 14828 [egg:core] dump config after ready, 6ms
+2022-04-16 19:13:30,084 INFO 8332 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 19:13:30,113 INFO 8332 [egg-multipart] stream mode enable
+2022-04-16 19:13:30,114 INFO 8332 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 19:13:30,238 INFO 8332 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 19:13:30,240 INFO 8332 [egg-security] use methodnoallow middleware
+2022-04-16 19:13:30,240 INFO 8332 [egg-security] use noopen middleware
+2022-04-16 19:13:30,241 INFO 8332 [egg-security] use nosniff middleware
+2022-04-16 19:13:30,242 INFO 8332 [egg-security] use xssProtection middleware
+2022-04-16 19:13:30,242 INFO 8332 [egg-security] use xframe middleware
+2022-04-16 19:13:30,242 INFO 8332 [egg-security] use dta middleware
+2022-04-16 19:13:30,242 INFO 8332 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 19:13:30,258 INFO 8332 [egg:core] dump config after load, 8ms
+2022-04-16 19:13:30,277 INFO 8332 [egg-watcher:application] watcher start success
+2022-04-16 19:13:30,279 INFO 8332 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 19:13:30 GMT+0800 (中国标准时间)
+2022-04-16 19:13:30,287 INFO 8332 [egg:core] dump config after ready, 6ms
+2022-04-16 19:13:39,291 INFO 2108 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 19:13:39,317 INFO 2108 [egg-multipart] stream mode enable
+2022-04-16 19:13:39,318 INFO 2108 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 19:13:39,442 INFO 2108 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 19:13:39,444 INFO 2108 [egg-security] use methodnoallow middleware
+2022-04-16 19:13:39,444 INFO 2108 [egg-security] use noopen middleware
+2022-04-16 19:13:39,445 INFO 2108 [egg-security] use nosniff middleware
+2022-04-16 19:13:39,445 INFO 2108 [egg-security] use xssProtection middleware
+2022-04-16 19:13:39,446 INFO 2108 [egg-security] use xframe middleware
+2022-04-16 19:13:39,446 INFO 2108 [egg-security] use dta middleware
+2022-04-16 19:13:39,446 INFO 2108 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 19:13:39,458 INFO 2108 [egg:core] dump config after load, 6ms
+2022-04-16 19:13:39,477 INFO 2108 [egg-watcher:application] watcher start success
+2022-04-16 19:13:39,480 INFO 2108 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 19:13:39 GMT+0800 (中国标准时间)
+2022-04-16 19:13:39,489 INFO 2108 [egg:core] dump config after ready, 8ms
+2022-04-16 19:13:45,621 INFO 14732 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 19:13:45,648 INFO 14732 [egg-multipart] stream mode enable
+2022-04-16 19:13:45,649 INFO 14732 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 19:13:45,796 INFO 14732 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 19:13:45,799 INFO 14732 [egg-security] use methodnoallow middleware
+2022-04-16 19:13:45,801 INFO 14732 [egg-security] use noopen middleware
+2022-04-16 19:13:45,801 INFO 14732 [egg-security] use nosniff middleware
+2022-04-16 19:13:45,802 INFO 14732 [egg-security] use xssProtection middleware
+2022-04-16 19:13:45,802 INFO 14732 [egg-security] use xframe middleware
+2022-04-16 19:13:45,803 INFO 14732 [egg-security] use dta middleware
+2022-04-16 19:13:45,803 INFO 14732 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 19:13:45,817 INFO 14732 [egg:core] dump config after load, 7ms
+2022-04-16 19:13:45,842 INFO 14732 [egg-watcher:application] watcher start success
+2022-04-16 19:13:45,845 INFO 14732 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 19:13:45 GMT+0800 (中国标准时间)
+2022-04-16 19:13:45,857 INFO 14732 [egg:core] dump config after ready, 10ms
+2022-04-16 19:15:30,992 INFO 12572 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 19:15:31,020 INFO 12572 [egg-multipart] stream mode enable
+2022-04-16 19:15:31,021 INFO 12572 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 19:15:31,144 INFO 12572 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 19:15:31,146 INFO 12572 [egg-security] use methodnoallow middleware
+2022-04-16 19:15:31,146 INFO 12572 [egg-security] use noopen middleware
+2022-04-16 19:15:31,147 INFO 12572 [egg-security] use nosniff middleware
+2022-04-16 19:15:31,148 INFO 12572 [egg-security] use xssProtection middleware
+2022-04-16 19:15:31,148 INFO 12572 [egg-security] use xframe middleware
+2022-04-16 19:15:31,148 INFO 12572 [egg-security] use dta middleware
+2022-04-16 19:15:31,148 INFO 12572 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 19:15:31,161 INFO 12572 [egg:core] dump config after load, 7ms
+2022-04-16 19:15:31,181 INFO 12572 [egg-watcher:application] watcher start success
+2022-04-16 19:15:31,184 INFO 12572 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 19:15:31 GMT+0800 (中国标准时间)
+2022-04-16 19:15:31,191 INFO 12572 [egg:core] dump config after ready, 5ms
+2022-04-16 19:16:26,654 INFO 1400 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 19:16:26,697 INFO 1400 [egg-multipart] stream mode enable
+2022-04-16 19:16:26,699 INFO 1400 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 19:16:26,876 INFO 1400 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 19:16:26,883 INFO 1400 [egg-security] use methodnoallow middleware
+2022-04-16 19:16:26,884 INFO 1400 [egg-security] use noopen middleware
+2022-04-16 19:16:26,886 INFO 1400 [egg-security] use nosniff middleware
+2022-04-16 19:16:26,887 INFO 1400 [egg-security] use xssProtection middleware
+2022-04-16 19:16:26,887 INFO 1400 [egg-security] use xframe middleware
+2022-04-16 19:16:26,888 INFO 1400 [egg-security] use dta middleware
+2022-04-16 19:16:26,888 INFO 1400 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 19:16:26,916 INFO 1400 [egg:core] dump config after load, 16ms
+2022-04-16 19:16:26,940 INFO 1400 [egg-watcher:application] watcher start success
+2022-04-16 19:16:26,942 INFO 1400 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 19:16:26 GMT+0800 (中国标准时间)
+2022-04-16 19:16:26,951 INFO 1400 [egg:core] dump config after ready, 6ms
+2022-04-16 19:16:54,846 INFO 8924 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 19:16:54,878 INFO 8924 [egg-multipart] stream mode enable
+2022-04-16 19:16:54,879 INFO 8924 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 19:16:55,043 INFO 8924 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 19:16:55,045 INFO 8924 [egg-security] use methodnoallow middleware
+2022-04-16 19:16:55,045 INFO 8924 [egg-security] use noopen middleware
+2022-04-16 19:16:55,046 INFO 8924 [egg-security] use nosniff middleware
+2022-04-16 19:16:55,046 INFO 8924 [egg-security] use xssProtection middleware
+2022-04-16 19:16:55,047 INFO 8924 [egg-security] use xframe middleware
+2022-04-16 19:16:55,047 INFO 8924 [egg-security] use dta middleware
+2022-04-16 19:16:55,047 INFO 8924 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 19:16:55,060 INFO 8924 [egg:core] dump config after load, 5ms
+2022-04-16 19:16:55,082 INFO 8924 [egg-watcher:application] watcher start success
+2022-04-16 19:16:55,084 INFO 8924 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 19:16:55 GMT+0800 (中国标准时间)
+2022-04-16 19:16:55,092 INFO 8924 [egg:core] dump config after ready, 6ms
+2022-04-16 19:17:18,077 INFO 8124 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 19:17:18,110 INFO 8124 [egg-multipart] stream mode enable
+2022-04-16 19:17:18,111 INFO 8124 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 19:17:18,323 INFO 8124 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 19:17:18,325 INFO 8124 [egg-security] use methodnoallow middleware
+2022-04-16 19:17:18,329 INFO 8124 [egg-security] use noopen middleware
+2022-04-16 19:17:18,330 INFO 8124 [egg-security] use nosniff middleware
+2022-04-16 19:17:18,331 INFO 8124 [egg-security] use xssProtection middleware
+2022-04-16 19:17:18,332 INFO 8124 [egg-security] use xframe middleware
+2022-04-16 19:17:18,332 INFO 8124 [egg-security] use dta middleware
+2022-04-16 19:17:18,332 INFO 8124 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 19:17:18,348 INFO 8124 [egg:core] dump config after load, 8ms
+2022-04-16 19:17:18,371 INFO 8124 [egg-watcher:application] watcher start success
+2022-04-16 19:17:18,372 INFO 8124 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 19:17:18 GMT+0800 (中国标准时间)
+2022-04-16 19:17:18,388 INFO 8124 [egg:core] dump config after ready, 14ms
+2022-04-16 19:18:04,656 INFO 12716 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 19:18:04,688 INFO 12716 [egg-multipart] stream mode enable
+2022-04-16 19:18:04,689 INFO 12716 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 19:18:04,854 INFO 12716 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 19:18:04,857 INFO 12716 [egg-security] use methodnoallow middleware
+2022-04-16 19:18:04,858 INFO 12716 [egg-security] use noopen middleware
+2022-04-16 19:18:04,862 INFO 12716 [egg-security] use nosniff middleware
+2022-04-16 19:18:04,864 INFO 12716 [egg-security] use xssProtection middleware
+2022-04-16 19:18:04,864 INFO 12716 [egg-security] use xframe middleware
+2022-04-16 19:18:04,865 INFO 12716 [egg-security] use dta middleware
+2022-04-16 19:18:04,865 INFO 12716 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 19:18:04,884 INFO 12716 [egg:core] dump config after load, 10ms
+2022-04-16 19:18:04,907 INFO 12716 [egg-watcher:application] watcher start success
+2022-04-16 19:18:04,911 INFO 12716 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 19:18:04 GMT+0800 (中国标准时间)
+2022-04-16 19:18:04,922 INFO 12716 [egg:core] dump config after ready, 6ms
+2022-04-16 19:20:23,492 INFO 13088 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 19:20:23,521 INFO 13088 [egg-multipart] stream mode enable
+2022-04-16 19:20:23,522 INFO 13088 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 19:20:23,657 INFO 13088 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 19:20:23,662 INFO 13088 [egg-security] use methodnoallow middleware
+2022-04-16 19:20:23,664 INFO 13088 [egg-security] use noopen middleware
+2022-04-16 19:20:23,665 INFO 13088 [egg-security] use nosniff middleware
+2022-04-16 19:20:23,666 INFO 13088 [egg-security] use xssProtection middleware
+2022-04-16 19:20:23,667 INFO 13088 [egg-security] use xframe middleware
+2022-04-16 19:20:23,668 INFO 13088 [egg-security] use dta middleware
+2022-04-16 19:20:23,668 INFO 13088 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 19:20:23,681 INFO 13088 [egg:core] dump config after load, 4ms
+2022-04-16 19:20:23,698 INFO 13088 [egg-watcher:application] watcher start success
+2022-04-16 19:20:23,701 INFO 13088 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 19:20:23 GMT+0800 (中国标准时间)
+2022-04-16 19:20:23,709 INFO 13088 [egg:core] dump config after ready, 6ms
+2022-04-16 19:21:07,927 INFO 6488 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 19:21:07,955 INFO 6488 [egg-multipart] stream mode enable
+2022-04-16 19:21:07,956 INFO 6488 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 19:21:08,077 INFO 6488 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 19:21:08,079 INFO 6488 [egg-security] use methodnoallow middleware
+2022-04-16 19:21:08,079 INFO 6488 [egg-security] use noopen middleware
+2022-04-16 19:21:08,080 INFO 6488 [egg-security] use nosniff middleware
+2022-04-16 19:21:08,080 INFO 6488 [egg-security] use xssProtection middleware
+2022-04-16 19:21:08,081 INFO 6488 [egg-security] use xframe middleware
+2022-04-16 19:21:08,081 INFO 6488 [egg-security] use dta middleware
+2022-04-16 19:21:08,081 INFO 6488 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 19:21:08,093 INFO 6488 [egg:core] dump config after load, 7ms
+2022-04-16 19:21:08,114 INFO 6488 [egg-watcher:application] watcher start success
+2022-04-16 19:21:08,117 INFO 6488 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 19:21:08 GMT+0800 (中国标准时间)
+2022-04-16 19:21:08,127 INFO 6488 [egg:core] dump config after ready, 8ms
+2022-04-16 19:24:17,960 INFO 4880 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 19:24:18,022 INFO 4880 [egg-multipart] stream mode enable
+2022-04-16 19:24:18,024 INFO 4880 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 19:24:18,239 INFO 4880 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 19:24:18,241 INFO 4880 [egg-security] use methodnoallow middleware
+2022-04-16 19:24:18,242 INFO 4880 [egg-security] use noopen middleware
+2022-04-16 19:24:18,243 INFO 4880 [egg-security] use nosniff middleware
+2022-04-16 19:24:18,243 INFO 4880 [egg-security] use xssProtection middleware
+2022-04-16 19:24:18,244 INFO 4880 [egg-security] use xframe middleware
+2022-04-16 19:24:18,244 INFO 4880 [egg-security] use dta middleware
+2022-04-16 19:24:18,244 INFO 4880 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 19:24:18,261 INFO 4880 [egg:core] dump config after load, 6ms
+2022-04-16 19:24:18,290 INFO 4880 [egg-watcher:application] watcher start success
+2022-04-16 19:24:18,293 INFO 4880 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 19:24:18 GMT+0800 (中国标准时间)
+2022-04-16 19:24:18,308 INFO 4880 [egg:core] dump config after ready, 12ms
+2022-04-16 21:03:46,243 INFO 3604 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 21:03:46,570 INFO 3604 [egg-multipart] stream mode enable
+2022-04-16 21:03:46,600 INFO 3604 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 21:03:49,860 INFO 3604 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 21:03:49,910 INFO 3604 [egg-security] use methodnoallow middleware
+2022-04-16 21:03:49,941 INFO 3604 [egg-security] use noopen middleware
+2022-04-16 21:03:49,962 INFO 3604 [egg-security] use nosniff middleware
+2022-04-16 21:03:50,028 INFO 3604 [egg-security] use xssProtection middleware
+2022-04-16 21:03:50,030 INFO 3604 [egg-security] use xframe middleware
+2022-04-16 21:03:50,046 INFO 3604 [egg-security] use dta middleware
+2022-04-16 21:03:50,047 INFO 3604 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 21:03:50,101 INFO 3604 [egg:core] dump config after load, 9ms
+2022-04-16 21:03:50,125 INFO 3604 [egg-watcher:application] watcher start success
+2022-04-16 21:03:50,128 INFO 3604 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 21:03:50 GMT+0800 (中国标准时间)
+2022-04-16 21:03:50,139 INFO 3604 [egg:core] dump config after ready, 9ms
+2022-04-16 21:06:03,798 INFO 6376 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 21:06:03,827 INFO 6376 [egg-multipart] stream mode enable
+2022-04-16 21:06:03,828 INFO 6376 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 21:06:03,957 INFO 6376 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 21:06:03,960 INFO 6376 [egg-security] use methodnoallow middleware
+2022-04-16 21:06:03,960 INFO 6376 [egg-security] use noopen middleware
+2022-04-16 21:06:03,961 INFO 6376 [egg-security] use nosniff middleware
+2022-04-16 21:06:03,962 INFO 6376 [egg-security] use xssProtection middleware
+2022-04-16 21:06:03,963 INFO 6376 [egg-security] use xframe middleware
+2022-04-16 21:06:03,963 INFO 6376 [egg-security] use dta middleware
+2022-04-16 21:06:03,964 INFO 6376 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 21:06:03,978 INFO 6376 [egg:core] dump config after load, 6ms
+2022-04-16 21:06:04,001 INFO 6376 [egg-watcher:application] watcher start success
+2022-04-16 21:06:04,008 INFO 6376 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 21:06:04 GMT+0800 (中国标准时间)
+2022-04-16 21:06:04,016 INFO 6376 [egg:core] dump config after ready, 5ms
+2022-04-16 21:16:47,050 INFO 12200 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 21:16:47,114 INFO 12200 [egg-multipart] stream mode enable
+2022-04-16 21:16:47,117 INFO 12200 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 21:16:48,670 INFO 12200 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 21:16:48,674 INFO 12200 [egg-security] use methodnoallow middleware
+2022-04-16 21:16:48,675 INFO 12200 [egg-security] use noopen middleware
+2022-04-16 21:16:48,676 INFO 12200 [egg-security] use nosniff middleware
+2022-04-16 21:16:48,676 INFO 12200 [egg-security] use xssProtection middleware
+2022-04-16 21:16:48,677 INFO 12200 [egg-security] use xframe middleware
+2022-04-16 21:16:48,678 INFO 12200 [egg-security] use dta middleware
+2022-04-16 21:16:48,678 INFO 12200 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 21:16:48,698 INFO 12200 [egg:core] dump config after load, 8ms
+2022-04-16 21:16:48,726 INFO 12200 [egg-watcher:application] watcher start success
+2022-04-16 21:16:48,728 INFO 12200 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 21:16:48 GMT+0800 (中国标准时间)
+2022-04-16 21:16:48,736 INFO 12200 [egg:core] dump config after ready, 6ms
+2022-04-16 21:20:06,796 INFO 1044 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 21:20:06,823 INFO 1044 [egg-multipart] stream mode enable
+2022-04-16 21:20:06,825 INFO 1044 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 21:20:06,952 INFO 1044 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 21:20:06,954 INFO 1044 [egg-security] use methodnoallow middleware
+2022-04-16 21:20:06,955 INFO 1044 [egg-security] use noopen middleware
+2022-04-16 21:20:06,955 INFO 1044 [egg-security] use nosniff middleware
+2022-04-16 21:20:06,956 INFO 1044 [egg-security] use xssProtection middleware
+2022-04-16 21:20:06,956 INFO 1044 [egg-security] use xframe middleware
+2022-04-16 21:20:06,957 INFO 1044 [egg-security] use dta middleware
+2022-04-16 21:20:06,957 INFO 1044 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 21:20:06,972 INFO 1044 [egg:core] dump config after load, 8ms
+2022-04-16 21:20:06,991 INFO 1044 [egg-watcher:application] watcher start success
+2022-04-16 21:20:06,993 INFO 1044 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 21:20:06 GMT+0800 (中国标准时间)
+2022-04-16 21:20:07,001 INFO 1044 [egg:core] dump config after ready, 7ms
+2022-04-16 21:22:52,271 INFO 10364 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 21:22:52,299 INFO 10364 [egg-multipart] stream mode enable
+2022-04-16 21:22:52,300 INFO 10364 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 21:22:52,421 INFO 10364 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 21:22:52,423 INFO 10364 [egg-security] use methodnoallow middleware
+2022-04-16 21:22:52,423 INFO 10364 [egg-security] use noopen middleware
+2022-04-16 21:22:52,424 INFO 10364 [egg-security] use nosniff middleware
+2022-04-16 21:22:52,424 INFO 10364 [egg-security] use xssProtection middleware
+2022-04-16 21:22:52,425 INFO 10364 [egg-security] use xframe middleware
+2022-04-16 21:22:52,425 INFO 10364 [egg-security] use dta middleware
+2022-04-16 21:22:52,425 INFO 10364 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 21:22:52,440 INFO 10364 [egg:core] dump config after load, 7ms
+2022-04-16 21:22:52,460 INFO 10364 [egg-watcher:application] watcher start success
+2022-04-16 21:22:52,464 INFO 10364 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 21:22:52 GMT+0800 (中国标准时间)
+2022-04-16 21:22:52,472 INFO 10364 [egg:core] dump config after ready, 6ms
+2022-04-16 21:30:34,902 INFO 8572 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 21:30:34,961 INFO 8572 [egg-multipart] stream mode enable
+2022-04-16 21:30:34,966 INFO 8572 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 21:30:36,349 INFO 8572 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 21:30:36,358 INFO 8572 [egg-security] use methodnoallow middleware
+2022-04-16 21:30:36,361 INFO 8572 [egg-security] use noopen middleware
+2022-04-16 21:30:36,365 INFO 8572 [egg-security] use nosniff middleware
+2022-04-16 21:30:36,368 INFO 8572 [egg-security] use xssProtection middleware
+2022-04-16 21:30:36,371 INFO 8572 [egg-security] use xframe middleware
+2022-04-16 21:30:36,373 INFO 8572 [egg-security] use dta middleware
+2022-04-16 21:30:36,373 INFO 8572 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 21:30:36,419 INFO 8572 [egg:core] dump config after load, 8ms
+2022-04-16 21:30:36,449 INFO 8572 [egg-watcher:application] watcher start success
+2022-04-16 21:30:36,452 INFO 8572 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 21:30:36 GMT+0800 (中国标准时间)
+2022-04-16 21:30:36,465 INFO 8572 [egg:core] dump config after ready, 7ms
+2022-04-16 21:31:26,348 INFO 14560 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 21:31:26,379 INFO 14560 [egg-multipart] stream mode enable
+2022-04-16 21:31:26,380 INFO 14560 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 21:31:26,497 INFO 14560 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 21:31:26,499 INFO 14560 [egg-security] use methodnoallow middleware
+2022-04-16 21:31:26,500 INFO 14560 [egg-security] use noopen middleware
+2022-04-16 21:31:26,501 INFO 14560 [egg-security] use nosniff middleware
+2022-04-16 21:31:26,501 INFO 14560 [egg-security] use xssProtection middleware
+2022-04-16 21:31:26,501 INFO 14560 [egg-security] use xframe middleware
+2022-04-16 21:31:26,502 INFO 14560 [egg-security] use dta middleware
+2022-04-16 21:31:26,502 INFO 14560 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 21:31:26,515 INFO 14560 [egg:core] dump config after load, 7ms
+2022-04-16 21:31:26,538 INFO 14560 [egg-watcher:application] watcher start success
+2022-04-16 21:31:26,539 INFO 14560 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 21:31:26 GMT+0800 (中国标准时间)
+2022-04-16 21:31:26,547 INFO 14560 [egg:core] dump config after ready, 6ms
+2022-04-16 22:36:38,081 INFO 9312 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 22:36:38,134 INFO 9312 [egg-multipart] stream mode enable
+2022-04-16 22:36:38,166 INFO 9312 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 22:36:44,482 INFO 9312 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 22:36:44,490 INFO 9312 [egg-security] use methodnoallow middleware
+2022-04-16 22:36:44,492 INFO 9312 [egg-security] use noopen middleware
+2022-04-16 22:36:44,493 INFO 9312 [egg-security] use nosniff middleware
+2022-04-16 22:36:44,494 INFO 9312 [egg-security] use xssProtection middleware
+2022-04-16 22:36:44,495 INFO 9312 [egg-security] use xframe middleware
+2022-04-16 22:36:44,496 INFO 9312 [egg-security] use dta middleware
+2022-04-16 22:36:44,496 INFO 9312 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 22:36:44,580 INFO 9312 [egg:core] dump config after load, 22ms
+2022-04-16 22:36:44,619 INFO 9312 [egg-watcher:application] watcher start success
+2022-04-16 22:36:44,622 INFO 9312 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 22:36:44 GMT+0800 (中国标准时间)
+2022-04-16 22:36:44,631 INFO 9312 [egg:core] dump config after ready, 7ms
+2022-04-16 23:20:50,239 INFO 14080 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 23:20:50,365 INFO 14080 [egg-multipart] stream mode enable
+2022-04-16 23:20:50,387 INFO 14080 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 23:20:53,812 INFO 14080 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 23:20:53,814 INFO 14080 [egg-security] use methodnoallow middleware
+2022-04-16 23:20:53,815 INFO 14080 [egg-security] use noopen middleware
+2022-04-16 23:20:53,815 INFO 14080 [egg-security] use nosniff middleware
+2022-04-16 23:20:53,816 INFO 14080 [egg-security] use xssProtection middleware
+2022-04-16 23:20:53,816 INFO 14080 [egg-security] use xframe middleware
+2022-04-16 23:20:53,816 INFO 14080 [egg-security] use dta middleware
+2022-04-16 23:20:53,816 INFO 14080 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 23:20:53,833 INFO 14080 [egg:core] dump config after load, 9ms
+2022-04-16 23:20:53,859 INFO 14080 [egg-watcher:application] watcher start success
+2022-04-16 23:20:53,875 INFO 14080 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 23:20:53 GMT+0800 (中国标准时间)
+2022-04-16 23:20:53,885 INFO 14080 [egg:core] dump config after ready, 8ms
+2022-04-16 23:20:55,671 INFO 7796 [egg:logger] init all loggers with options: {"dir":"E:\\shopBackstage\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopBackstage-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-04-16 23:20:55,699 INFO 7796 [egg-multipart] stream mode enable
+2022-04-16 23:20:55,700 INFO 7796 [egg-mysql] connecting root@localhost:3306/kidsFurniture
+2022-04-16 23:20:55,820 INFO 7796 [egg-static] starting static serve /public/ -> E:\shopBackstage\public
+2022-04-16 23:20:55,822 INFO 7796 [egg-security] use methodnoallow middleware
+2022-04-16 23:20:55,823 INFO 7796 [egg-security] use noopen middleware
+2022-04-16 23:20:55,823 INFO 7796 [egg-security] use nosniff middleware
+2022-04-16 23:20:55,824 INFO 7796 [egg-security] use xssProtection middleware
+2022-04-16 23:20:55,824 INFO 7796 [egg-security] use xframe middleware
+2022-04-16 23:20:55,825 INFO 7796 [egg-security] use dta middleware
+2022-04-16 23:20:55,825 INFO 7796 [egg-security] compose 6 middlewares into one security middleware
+2022-04-16 23:20:55,840 INFO 7796 [egg:core] dump config after load, 9ms
+2022-04-16 23:20:55,868 INFO 7796 [egg-watcher:application] watcher start success
+2022-04-16 23:20:55,883 INFO 7796 [egg-mysql] instance[0] status OK, rds currentTime: Sat Apr 16 2022 23:20:55 GMT+0800 (中国标准时间)
+2022-04-16 23:20:55,892 INFO 7796 [egg:core] dump config after ready, 7ms
+2022-04-17 00:00:00,020 INFO 7796 [egg-logrotator] clean all log before 31 days
+2022-04-17 00:00:01,034 INFO 7796 [egg-logrotator] broadcast log-reload
+2022-04-17 00:00:01,035 INFO 7796 [egg-logrotator] rotate files success by DayRotator, files ["E:\\shopBackstage\\logs\\common-error.log -> E:\\shopBackstage\\logs\\common-error.log.2022-04-16","E:\\shopBackstage\\logs\\shopBackstage-web.log -> E:\\shopBackstage\\logs\\shopBackstage-web.log.2022-04-16","E:\\shopBackstage\\logs\\egg-web.log -> E:\\shopBackstage\\logs\\egg-web.log.2022-04-16","E:\\shopBackstage\\logs\\egg-schedule.log -> E:\\shopBackstage\\logs\\egg-schedule.log.2022-04-16","E:\\shopBackstage\\logs\\egg-agent.log -> E:\\shopBackstage\\logs\\egg-agent.log.2022-04-16"]

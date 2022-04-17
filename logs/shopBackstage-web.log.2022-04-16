@@ -1,0 +1,324 @@
+2022-04-16 16:00:49,756 INFO 10188 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 16:01:21,021 INFO 10188 [-/127.0.0.1/-/513ms GET /] [access] 127.0.0.1: - GET / HTTP/200 163405 - 501 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 16:01:26,609 INFO 10188 [-/127.0.0.1/-/9ms GET /list?pageIndex=2&pageSize=10] [access] 127.0.0.1: - GET /list?pageIndex=2&pageSize=10 HTTP/200 2582 http://127.0.0.1:7001/ 4 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 16:01:28,146 INFO 10188 [-/127.0.0.1/-/2ms GET /list?pageIndex=3&pageSize=10] [access] 127.0.0.1: - GET /list?pageIndex=3&pageSize=10 HTTP/200 2743 http://127.0.0.1:7001/ 2 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 16:01:28,791 INFO 10188 [-/127.0.0.1/-/41ms GET /] [access] 127.0.0.1: - GET / HTTP/200 163405 http://127.0.0.1:7001/ 40 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 16:01:31,068 INFO 10188 [-/127.0.0.1/-/49ms GET /category] [access] 127.0.0.1: - GET /category HTTP/200 182457 http://127.0.0.1:7001/ 48 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 16:12:57,372 INFO 10188 [-/127.0.0.1/-/73ms GET /] [access] 127.0.0.1: - GET / HTTP/200 163405 - 72 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 16:13:04,336 INFO 10188 [-/127.0.0.1/-/2ms GET /list?pageIndex=2&pageSize=10] [access] 127.0.0.1: - GET /list?pageIndex=2&pageSize=10 HTTP/200 2582 http://127.0.0.1:7001/ 1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 16:13:51,918 INFO 10188 [-/127.0.0.1/-/39ms GET /] [access] 127.0.0.1: - GET / HTTP/200 163405 - 38 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 16:13:56,971 INFO 10188 [-/127.0.0.1/-/4ms GET /list?pageIndex=2&pageSize=10] [access] 127.0.0.1: - GET /list?pageIndex=2&pageSize=10 HTTP/200 2582 http://127.0.0.1:7001/ 2 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 16:24:58,044 INFO 10188 [-/127.0.0.1/-/5ms GET /list?pageIndex=3&pageSize=10] [access] 127.0.0.1: - GET /list?pageIndex=3&pageSize=10 HTTP/200 2743 http://127.0.0.1:7001/ 2 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 16:24:59,573 INFO 10188 [-/127.0.0.1/-/4ms GET /list?pageIndex=4&pageSize=10] [access] 127.0.0.1: - GET /list?pageIndex=4&pageSize=10 HTTP/200 2704 http://127.0.0.1:7001/ 2 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 16:25:01,100 INFO 10188 [-/127.0.0.1/-/6ms GET /list?pageIndex=5&pageSize=10] [access] 127.0.0.1: - GET /list?pageIndex=5&pageSize=10 HTTP/200 1583 http://127.0.0.1:7001/ 5 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 17:21:02,869 INFO 14504 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:21:17,547 INFO 8040 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:21:19,485 INFO 5596 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:21:33,586 INFO 9700 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:21:36,701 INFO 9628 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:21:41,024 INFO 10164 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:21:50,650 INFO 9340 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:29:18,940 INFO 15232 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:29:28,596 INFO 12396 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:29:50,116 INFO 15036 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:30:13,622 INFO 14396 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:30:54,808 INFO 10672 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:31:14,249 INFO 5092 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:32:10,565 ERROR 5092 [-/127.0.0.1/-/8ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'getArtilceList')
+    at IndexController.index (E:\shopBackstage\app\controller\index.js:6:41)
+    at Object.callFn (E:\shopBackstage\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\shopBackstage\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\shopBackstage\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\shopBackstage\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\shopBackstage\node_modules\koa-compose\index.js:44:32)
+    at next (E:\shopBackstage\node_modules\koa-compose\index.js:45:18)
+    at E:\shopBackstage\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (E:\shopBackstage\node_modules\koa-compose\index.js:44:32)
+    at E:\shopBackstage\node_modules\koa-compose\index.js:36:12
+
+pid: 5092
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:32:35,437 INFO 12252 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:33:41,357 INFO 14228 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:33:49,036 INFO 3684 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:33:58,619 ERROR 3684 [-/127.0.0.1/-/17ms GET /] nodejs.TypeError: Cannot read properties of undefined (reading 'getArtilceList')
+    at LoginController.index (E:\shopBackstage\app\controller\login.js:6:41)
+    at Object.callFn (E:\shopBackstage\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\shopBackstage\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\shopBackstage\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\shopBackstage\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\shopBackstage\node_modules\koa-compose\index.js:44:32)
+    at next (E:\shopBackstage\node_modules\koa-compose\index.js:45:18)
+    at E:\shopBackstage\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (E:\shopBackstage\node_modules\koa-compose\index.js:44:32)
+    at E:\shopBackstage\node_modules\koa-compose\index.js:36:12
+
+pid: 3684
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:34:29,260 INFO 13180 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:34:39,640 INFO 5640 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:34:48,075 ERROR 5640 [-/127.0.0.1/-/14ms GET /] nodejs.ReferenceError: result is not defined
+    at LoginController.index (E:\shopBackstage\app\controller\login.js:6:45)
+    at Object.callFn (E:\shopBackstage\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\shopBackstage\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\shopBackstage\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\shopBackstage\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\shopBackstage\node_modules\koa-compose\index.js:44:32)
+    at next (E:\shopBackstage\node_modules\koa-compose\index.js:45:18)
+    at E:\shopBackstage\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (E:\shopBackstage\node_modules\koa-compose\index.js:44:32)
+    at E:\shopBackstage\node_modules\koa-compose\index.js:36:12
+
+pid: 5640
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 17:35:05,385 INFO 260 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:35:31,529 INFO 12660 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:35:39,910 INFO 12660 [-/127.0.0.1/-/310ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241017 - 303 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 17:36:34,791 INFO 14656 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:36:43,584 INFO 14656 [-/127.0.0.1/-/212ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241023 - 198 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 17:37:39,578 INFO 10816 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:37:47,770 INFO 10816 [-/127.0.0.1/-/208ms GET /] [access] 127.0.0.1: - GET / HTTP/200 240967 - 199 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 17:47:23,598 INFO 8700 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:48:12,616 INFO 556 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 17:48:21,300 INFO 556 [-/127.0.0.1/-/279ms GET /] [access] 127.0.0.1: - GET / HTTP/200 240974 - 269 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 17:48:27,169 INFO 556 [-/127.0.0.1/-/39ms GET /] [access] 127.0.0.1: - GET / HTTP/200 240974 - 39 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 17:48:53,312 INFO 556 [-/127.0.0.1/-/44ms GET /] [access] 127.0.0.1: - GET / HTTP/200 240974 - 43 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 17:49:10,347 INFO 556 [-/127.0.0.1/-/40ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241004 - 40 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 17:49:40,958 INFO 556 [-/127.0.0.1/-/43ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241004 - 41 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 17:50:37,260 INFO 556 [-/127.0.0.1/-/46ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241004 - 46 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 17:50:57,448 INFO 556 [-/127.0.0.1/-/49ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241004 - 47 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 17:50:59,862 INFO 556 [-/127.0.0.1/-/43ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241004 - 42 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 17:51:43,891 INFO 556 [-/127.0.0.1/-/41ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241019 - 40 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 17:52:18,250 INFO 556 [-/127.0.0.1/-/45ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241019 - 44 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 17:52:52,537 INFO 556 [-/127.0.0.1/-/45ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241019 - 44 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 17:54:09,051 INFO 556 [-/127.0.0.1/-/44ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241019 - 41 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 17:54:39,862 INFO 556 [-/127.0.0.1/-/43ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241096 - 41 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 17:57:20,890 INFO 556 [-/127.0.0.1/-/48ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241019 - 46 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:01:00,722 INFO 556 [-/127.0.0.1/-/44ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241019 - 43 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:02:50,226 INFO 556 [-/127.0.0.1/-/39ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241118 - 38 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:03:01,863 INFO 556 [-/127.0.0.1/-/48ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241118 - 47 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:03:03,593 INFO 556 [-/127.0.0.1/-/42ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241118 - 41 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:05:46,137 INFO 556 [-/127.0.0.1/-/44ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241178 - 43 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:09:11,576 INFO 556 [-/127.0.0.1/-/47ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241178 - 46 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:10:14,953 INFO 556 [-/127.0.0.1/-/43ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241192 - 42 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:10:55,581 INFO 556 [-/127.0.0.1/-/45ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241192 - 45 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:11:19,131 INFO 556 [-/127.0.0.1/-/42ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241192 - 42 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:11:57,722 INFO 556 [-/127.0.0.1/-/53ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241192 - 52 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:12:46,774 INFO 556 [-/127.0.0.1/-/39ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241192 - 39 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:13:48,385 INFO 556 [-/127.0.0.1/-/42ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241192 - 41 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:13:53,660 INFO 556 [-/127.0.0.1/-/39ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241192 - 39 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:14:04,697 INFO 556 [-/127.0.0.1/-/46ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241192 - 46 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:14:05,602 INFO 556 [-/127.0.0.1/-/42ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241192 - 41 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:14:31,138 INFO 556 [-/127.0.0.1/-/44ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241192 - 44 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:14:54,650 INFO 5712 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 18:15:03,171 INFO 5712 [-/127.0.0.1/-/230ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241192 - 220 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:16:21,925 INFO 5712 [-/127.0.0.1/-/44ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241192 - 43 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:16:22,693 INFO 5712 [-/127.0.0.1/-/42ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241192 - 42 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:17:29,607 INFO 5712 [-/127.0.0.1/-/42ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241266 - 40 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:18:14,512 INFO 5712 [-/127.0.0.1/-/42ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241284 - 41 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:19:45,216 INFO 5712 [-/127.0.0.1/-/51ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241330 - 49 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:21:59,735 INFO 5712 [-/127.0.0.1/-/62ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241359 - 61 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:22:00,750 INFO 5712 [-/127.0.0.1/-/39ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241359 - 39 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:24:23,419 INFO 5712 [-/127.0.0.1/-/46ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241375 - 46 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:24:33,511 INFO 5712 [-/127.0.0.1/-/43ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241375 - 42 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:24:57,650 INFO 5712 [-/127.0.0.1/-/44ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241375 - 43 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:24:58,707 INFO 5712 [-/127.0.0.1/-/49ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241375 - 48 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:26:37,989 INFO 5712 [-/127.0.0.1/-/40ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241422 - 40 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:28:01,186 INFO 5712 [-/127.0.0.1/-/41ms GET /] [access] 127.0.0.1: - GET / HTTP/200 241422 - 40 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:32:48,060 INFO 5712 [-/127.0.0.1/-/47ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242179 - 47 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:36:40,845 INFO 5712 [-/127.0.0.1/-/46ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242432 - 46 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:37:17,762 INFO 5712 [-/127.0.0.1/-/43ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242453 - 43 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:37:29,210 INFO 5712 [-/127.0.0.1/-/58ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242447 - 57 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:39:18,318 INFO 5712 [-/127.0.0.1/-/44ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242446 - 43 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:40:09,932 INFO 5712 [-/127.0.0.1/-/50ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242577 - 49 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:42:03,167 INFO 5712 [-/127.0.0.1/-/46ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242705 - 45 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:42:36,019 INFO 5712 [-/127.0.0.1/-/50ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242793 - 49 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:43:09,393 INFO 5712 [-/127.0.0.1/-/46ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 46 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:46:55,505 INFO 5712 [-/127.0.0.1/-/58ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 56 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:47:10,716 INFO 5712 [-/127.0.0.1/-/53ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 52 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:48:39,597 INFO 13928 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 18:52:12,142 INFO 10960 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 18:52:12,598 INFO 10960 [-/127.0.0.1/-/150ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 143 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:52:23,282 INFO 10960 [-/127.0.0.1/-/241ms POST /loginVerify] [access] 127.0.0.1: - POST /loginVerify HTTP/404 - http://127.0.0.1:7001/ 6 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:53:14,173 INFO 11328 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 18:53:16,044 INFO 11284 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 18:53:30,937 INFO 4908 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 18:53:47,839 INFO 6184 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 18:53:54,971 INFO 9988 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 18:54:36,556 INFO 260 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 18:55:17,927 INFO 6360 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 18:57:56,156 INFO 3808 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 18:58:23,793 INFO 3808 [-/127.0.0.1/-/39ms GET /public/a6b1ea4bdab64deddd88.hot-update.json] [access] 127.0.0.1: - GET /public/a6b1ea4bdab64deddd88.hot-update.json HTTP/404 - http://127.0.0.1:7001/ 1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:58:24,253 INFO 3808 [-/127.0.0.1/-/223ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 222 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:58:26,397 INFO 3808 [-/127.0.0.1/-/5ms GET /public/a6b1ea4bdab64deddd88.hot-update.json] [access] 127.0.0.1: - GET /public/a6b1ea4bdab64deddd88.hot-update.json HTTP/404 - http://127.0.0.1:7001/ 0 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:59:02,759 INFO 1972 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 18:59:08,191 ERROR 1972 [-/127.0.0.1/-/15ms POST /loginVerify] nodejs.ReferenceError: error is not defined
+    at loginService.loginVerify (E:\shopBackstage\app\service\login.js:10:25)
+    at LoginController.loginVerify (E:\shopBackstage\app\controller\login.js:13:44)
+    at Object.callFn (E:\shopBackstage\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\shopBackstage\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\shopBackstage\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\shopBackstage\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\shopBackstage\node_modules\koa-compose\index.js:44:32)
+    at next (E:\shopBackstage\node_modules\koa-compose\index.js:45:18)
+    at E:\shopBackstage\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (E:\shopBackstage\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 1972
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 18:59:40,544 INFO 1304 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 18:59:50,493 INFO 1304 [-/127.0.0.1/-/165ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 159 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:59:51,220 INFO 11024 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 18:59:52,608 INFO 11024 [-/127.0.0.1/-/27ms GET /public/a6b1ea4bdab64deddd88.hot-update.json] [access] 127.0.0.1: - GET /public/a6b1ea4bdab64deddd88.hot-update.json HTTP/404 - http://127.0.0.1:7001/ 0 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 18:59:58,565 ERROR 11024 [-/127.0.0.1/-/12ms POST /loginVerify] nodejs.ReferenceError: error is not defined
+    at loginService.loginVerify (E:\shopBackstage\app\service\login.js:10:25)
+    at LoginController.loginVerify (E:\shopBackstage\app\controller\login.js:13:44)
+    at Object.callFn (E:\shopBackstage\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\shopBackstage\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\shopBackstage\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\shopBackstage\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\shopBackstage\node_modules\koa-compose\index.js:44:32)
+    at next (E:\shopBackstage\node_modules\koa-compose\index.js:45:18)
+    at E:\shopBackstage\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (E:\shopBackstage\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 11024
+hostname: DESKTOP-P7F9BNV
+
+2022-04-16 19:00:44,629 INFO 13932 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 19:01:38,409 INFO 12256 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 19:02:24,370 INFO 2696 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 19:02:32,622 INFO 2696 [-/127.0.0.1/-/277ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 268 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:03:33,940 INFO 12984 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 19:03:36,010 INFO 6760 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 19:03:44,744 INFO 6248 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 19:03:53,100 INFO 6248 [-/127.0.0.1/-/240ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 233 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:04:00,093 INFO 12212 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 19:07:09,972 INFO 3880 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 19:07:18,308 INFO 3880 [-/127.0.0.1/-/288ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 276 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:07:28,630 INFO 3880 [-/127.0.0.1/-/194ms POST /loginVerify] [access] 127.0.0.1: - POST /loginVerify HTTP/200 44 http://127.0.0.1:7001/ 10 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:07:34,908 INFO 14452 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 19:09:43,129 INFO 15108 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 19:09:44,930 INFO 14828 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 19:13:30,243 INFO 8332 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 19:13:39,446 INFO 2108 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 19:13:45,803 INFO 14732 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 19:13:53,836 INFO 14732 [-/127.0.0.1/-/27ms POST /loginVerify] [access] 127.0.0.1: - POST /loginVerify HTTP/200 44 http://127.0.0.1:7001/ 14 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:15:31,149 INFO 12572 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 19:15:44,143 INFO 12572 [-/127.0.0.1/-/152ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 144 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:15:52,873 INFO 12572 [-/127.0.0.1/-/23ms POST /loginVerify] [access] 127.0.0.1: - POST /loginVerify HTTP/200 276 http://127.0.0.1:7001/ 11 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:16:26,889 INFO 1400 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 19:16:34,912 INFO 1400 [-/127.0.0.1/-/16ms POST /loginVerify] [access] 127.0.0.1: - POST /loginVerify HTTP/200 274 http://127.0.0.1:7001/ 6 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:16:54,284 INFO 1400 [-/127.0.0.1/-/166ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 165 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:16:55,048 INFO 8924 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 19:17:01,662 INFO 8924 [-/127.0.0.1/-/18ms POST /loginVerify] [access] 127.0.0.1: - POST /loginVerify HTTP/200 178 http://127.0.0.1:7001/ 5 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:17:11,504 INFO 8924 [-/127.0.0.1/-/4ms POST /loginVerify] [access] 127.0.0.1: - POST /loginVerify HTTP/200 46 http://127.0.0.1:7001/ 3 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:17:18,333 INFO 8124 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 19:17:34,432 INFO 8124 [-/127.0.0.1/-/22ms POST /loginVerify] [access] 127.0.0.1: - POST /loginVerify HTTP/200 178 http://127.0.0.1:7001/ 5 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:18:04,866 INFO 12716 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 19:18:49,265 INFO 12716 [-/127.0.0.1/-/163ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 159 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:18:57,539 INFO 12716 [-/127.0.0.1/-/20ms POST /loginVerify] [access] 127.0.0.1: - POST /loginVerify HTTP/200 46 http://127.0.0.1:7001/ 8 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:19:35,913 INFO 12716 [-/127.0.0.1/-/49ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 49 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:19:42,786 INFO 12716 [-/127.0.0.1/-/4ms POST /loginVerify] [access] 127.0.0.1: - POST /loginVerify HTTP/200 203 http://127.0.0.1:7001/ 3 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:19:43,822 ERROR 12716 [backstage/index.js] server render bundle error, try client render, the server render error Error: read webpack memory file[E:\shopBackstage\app\view\backstage\index.js] content is empty, please check if the file exists
+    at E:\shopBackstage\node_modules\egg-webpack-vue\app.js:20:17
+    at Generator.next (<anonymous>)
+    at onFulfilled (E:\shopBackstage\node_modules\co\index.js:65:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-04-16 19:19:43,832 INFO 12716 [-/127.0.0.1/-/23ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 412 http://127.0.0.1:7001/ 22 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:20:02,145 ERROR 12716 [backstage/index.js] server render bundle error, try client render, the server render error Error: read webpack memory file[E:\shopBackstage\app\view\backstage\index.js] content is empty, please check if the file exists
+    at E:\shopBackstage\node_modules\egg-webpack-vue\app.js:20:17
+    at Generator.next (<anonymous>)
+    at onFulfilled (E:\shopBackstage\node_modules\co\index.js:65:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-04-16 19:20:02,146 INFO 12716 [-/127.0.0.1/-/4ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 412 http://127.0.0.1:7001/ 4 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:20:23,669 INFO 13088 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 19:21:08,081 INFO 6488 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 19:21:16,866 INFO 6488 [-/127.0.0.1/-/210ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 201 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:22:00,952 INFO 6488 [-/127.0.0.1/-/18ms POST /loginVerify] [access] 127.0.0.1: - POST /loginVerify HTTP/200 203 http://127.0.0.1:7001/ 5 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:22:02,032 INFO 6488 [-/127.0.0.1/-/59ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 240998 http://127.0.0.1:7001/ 58 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:24:18,245 INFO 4880 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 19:24:26,161 INFO 4880 [-/127.0.0.1/-/138ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 134 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:24:37,938 INFO 4880 [-/127.0.0.1/-/17ms POST /loginVerify] [access] 127.0.0.1: - POST /loginVerify HTTP/200 226 http://127.0.0.1:7001/ 5 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:25:13,736 INFO 4880 [-/127.0.0.1/-/51ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 50 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:26:35,280 INFO 4880 [-/127.0.0.1/-/44ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 43 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:26:42,854 INFO 4880 [-/127.0.0.1/-/5ms POST /loginVerify] [access] 127.0.0.1: - POST /loginVerify HTTP/200 226 http://127.0.0.1:7001/ 2 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 19:26:43,939 INFO 4880 [-/127.0.0.1/-/61ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 240959 http://127.0.0.1:7001/ 60 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 21:03:50,080 INFO 3604 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 21:06:03,965 INFO 6376 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 21:08:13,196 INFO 6376 [-/127.0.0.1/-/901ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 894 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 21:11:35,803 INFO 6376 [-/127.0.0.1/-/813ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 811 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 21:16:48,683 INFO 12200 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 21:17:17,233 INFO 12200 [-/127.0.0.1/-/314ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 299 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 21:17:55,538 INFO 12200 [-/127.0.0.1/-/51ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 51 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 21:20:06,957 INFO 1044 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 21:20:16,918 INFO 1044 [-/127.0.0.1/-/201ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 194 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 21:21:01,869 INFO 1044 [-/127.0.0.1/-/57ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 240959 - 55 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 21:21:16,047 INFO 1044 [-/127.0.0.1/-/51ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 50 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 21:22:52,426 INFO 10364 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 21:23:01,507 INFO 10364 [-/127.0.0.1/-/183ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 176 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 21:23:11,715 INFO 10364 [-/127.0.0.1/-/284ms POST /loginVerify] [access] 127.0.0.1: - POST /loginVerify HTTP/200 226 http://127.0.0.1:7002/ 37 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 21:23:12,823 INFO 10364 [-/127.0.0.1/-/76ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 240959 http://127.0.0.1:7002/ 72 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 21:30:36,402 INFO 8572 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 21:31:26,502 INFO 14560 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 21:31:47,479 INFO 14560 [-/127.0.0.1/-/204ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 194 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 22:36:44,539 INFO 9312 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 22:38:18,387 INFO 9312 [-/127.0.0.1/-/245ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 237 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 22:38:32,235 INFO 9312 [-/127.0.0.1/-/1078ms POST /loginVerify] [access] 127.0.0.1: - POST /loginVerify HTTP/200 46 http://127.0.0.1:7002/ 19 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 22:38:38,507 INFO 9312 [-/127.0.0.1/-/3ms POST /loginVerify] [access] 127.0.0.1: - POST /loginVerify HTTP/200 226 http://127.0.0.1:7002/ 2 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 22:38:39,602 INFO 9312 [-/127.0.0.1/-/69ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 240959 http://127.0.0.1:7002/ 65 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:20:53,817 INFO 14080 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 23:20:55,825 INFO 7796 [egg-logview] mount log E:\shopBackstage\logs at http://127.0.0.1:7001/__logs
+2022-04-16 23:21:49,192 INFO 7796 [-/127.0.0.1/-/187ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 - 178 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:22:03,031 INFO 7796 [-/127.0.0.1/-/20ms POST /loginVerify] [access] 127.0.0.1: - POST /loginVerify HTTP/200 226 http://127.0.0.1:7002/ 9 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:22:04,144 INFO 7796 [-/127.0.0.1/-/87ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 240959 http://127.0.0.1:7002/ 83 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:23:04,212 INFO 7796 [-/127.0.0.1/-/4ms POST /loginVerify] [access] 127.0.0.1: - POST /loginVerify HTTP/200 226 http://127.0.0.1:7002/ 2 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:23:05,307 INFO 7796 [-/127.0.0.1/-/69ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 240959 http://127.0.0.1:7002/ 68 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:24:11,999 INFO 7796 [-/127.0.0.1/-/44ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 241014 http://127.0.0.1:7002/ 42 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:27:17,999 INFO 7796 [-/127.0.0.1/-/42ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 241209 http://127.0.0.1:7002/ 41 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:29:40,956 INFO 7796 [-/127.0.0.1/-/45ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 241270 http://127.0.0.1:7002/ 43 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:31:21,847 INFO 7796 [-/127.0.0.1/-/41ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 241290 http://127.0.0.1:7002/ 41 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:31:55,419 INFO 7796 [-/127.0.0.1/-/42ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 241290 http://127.0.0.1:7002/ 41 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:32:57,648 INFO 7796 [-/127.0.0.1/-/49ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 241309 http://127.0.0.1:7002/ 48 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:34:03,569 INFO 7796 [-/127.0.0.1/-/2ms GET /JavaScript%EF%BC%9Avoid(0)] [access] 127.0.0.1: - GET /JavaScript%EF%BC%9Avoid(0) HTTP/404 - http://127.0.0.1:7002/backstage 0 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:34:05,545 INFO 7796 [-/127.0.0.1/-/2ms GET /JavaScript%EF%BC%9Avoid(0)] [access] 127.0.0.1: - GET /JavaScript%EF%BC%9Avoid(0) HTTP/404 - http://127.0.0.1:7002/backstage 0 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:34:08,907 INFO 7796 [-/127.0.0.1/-/43ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 241309 http://127.0.0.1:7002/ 42 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:34:13,264 INFO 7796 [-/127.0.0.1/-/0ms GET /JavaScript%EF%BC%9Avoid(0)] [access] 127.0.0.1: - GET /JavaScript%EF%BC%9Avoid(0) HTTP/404 - http://127.0.0.1:7002/backstage 0 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:34:13,323 INFO 7796 [-/undefined/-/63ms GET /] [access] undefined: - GET / HTTP/200 242838 http://127.0.0.1:7002/backstage 62 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:34:50,561 INFO 7796 [-/127.0.0.1/-/42ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 241307 http://127.0.0.1:7002/ 41 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:34:55,090 INFO 7796 [-/127.0.0.1/-/52ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 http://127.0.0.1:7002/backstage 52 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:35:01,554 INFO 7796 [-/127.0.0.1/-/41ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 241307 http://127.0.0.1:7002/ 40 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:35:47,342 INFO 7796 [-/127.0.0.1/-/57ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 241307 http://127.0.0.1:7002/ 56 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:35:49,616 INFO 7796 [-/127.0.0.1/-/51ms GET /] [access] 127.0.0.1: - GET / HTTP/200 242838 http://127.0.0.1:7002/backstage 51 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:36:15,120 INFO 7796 [-/127.0.0.1/-/11ms POST /loginVerify] [access] 127.0.0.1: - POST /loginVerify HTTP/200 226 http://127.0.0.1:7002/ 9 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:36:16,218 INFO 7796 [-/127.0.0.1/-/69ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 241307 http://127.0.0.1:7002/ 65 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:40:06,102 INFO 7796 [-/127.0.0.1/-/58ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 243492 http://127.0.0.1:7002/ 58 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:40:49,352 INFO 7796 [-/127.0.0.1/-/49ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 241578 http://127.0.0.1:7002/ 49 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:41:21,097 INFO 7796 [-/127.0.0.1/-/52ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 241544 http://127.0.0.1:7002/ 50 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:42:34,912 INFO 7796 [-/127.0.0.1/-/61ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 241826 http://127.0.0.1:7002/ 56 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:42:58,442 INFO 7796 [-/127.0.0.1/-/49ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 241842 http://127.0.0.1:7002/ 48 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:45:17,825 INFO 7796 [-/127.0.0.1/-/51ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 241953 http://127.0.0.1:7002/ 51 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:46:10,152 INFO 7796 [-/127.0.0.1/-/59ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 241953 http://127.0.0.1:7002/ 59 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:47:33,776 INFO 7796 [-/127.0.0.1/-/52ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 241953 http://127.0.0.1:7002/ 51 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:47:54,173 INFO 7796 [-/127.0.0.1/-/51ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 241953 http://127.0.0.1:7002/ 49 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:48:05,825 INFO 7796 [-/127.0.0.1/-/52ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 241953 http://127.0.0.1:7002/ 52 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:48:18,546 INFO 7796 [-/127.0.0.1/-/54ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 241953 http://127.0.0.1:7002/ 53 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:49:04,693 INFO 7796 [-/127.0.0.1/-/54ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 241953 http://127.0.0.1:7002/ 53 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:50:03,944 INFO 7796 [-/127.0.0.1/-/59ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 242094 http://127.0.0.1:7002/ 57 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:50:39,121 INFO 7796 [-/127.0.0.1/-/51ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 242235 http://127.0.0.1:7002/ 50 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:50:49,118 INFO 7796 [-/127.0.0.1/-/52ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 242235 http://127.0.0.1:7002/ 51 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:52:11,195 INFO 7796 [-/127.0.0.1/-/59ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 242319 http://127.0.0.1:7002/ 58 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:52:50,475 INFO 7796 [-/127.0.0.1/-/54ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 242322 http://127.0.0.1:7002/ 54 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:53:04,660 INFO 7796 [-/127.0.0.1/-/61ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 242317 http://127.0.0.1:7002/ 61 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:53:33,854 INFO 7796 [-/127.0.0.1/-/53ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 242395 http://127.0.0.1:7002/ 53 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:54:45,051 INFO 7796 [-/127.0.0.1/-/52ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 242629 http://127.0.0.1:7002/ 50 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:55:43,734 INFO 7796 [-/127.0.0.1/-/53ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 242644 http://127.0.0.1:7002/ 53 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:56:38,342 INFO 7796 [-/127.0.0.1/-/57ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 242644 http://127.0.0.1:7002/ 57 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:56:44,434 INFO 7796 [-/127.0.0.1/-/76ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 242644 http://127.0.0.1:7002/ 75 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:57:21,683 INFO 7796 [-/127.0.0.1/-/41ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 242646 http://127.0.0.1:7002/ 40 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:57:55,606 INFO 7796 [-/127.0.0.1/-/41ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 242646 http://127.0.0.1:7002/ 40 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+2022-04-16 23:58:22,148 INFO 7796 [-/127.0.0.1/-/46ms GET /backstage] [access] 127.0.0.1: - GET /backstage HTTP/200 242646 http://127.0.0.1:7002/ 43 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
