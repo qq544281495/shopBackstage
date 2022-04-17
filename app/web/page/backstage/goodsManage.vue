@@ -23,7 +23,7 @@
                 <el-table-column label="操作" min-width="140px">
                     <template slot-scope="scope">
                         <a href="JavaScript:void(0)" @click="exitGoods(scope.row)">编辑商品信息</a>
-                        <a style="margin-left: 10px;" href="JavaScript:void(0)">删除商品</a>
+                        <a style="margin-left: 10px;" href="JavaScript:void(0)" @click="deleteGoods(scope.row)">删除商品</a>
                     </template>
                 </el-table-column>
             </el-table>
@@ -115,6 +115,30 @@ export default {
         }
     },
     methods:{
+        deleteGoods(value){
+            this.$confirm('是否删除该商品?', '删除商品', {
+                confirmButtonText: '确定',
+                cancelButtonText: '取消',
+                type: 'warning'
+            }).then(() => {
+                this.$axios.post('/deleteGoods',{goodsId: value.goodsId}).then(res=>{
+                    if(res.data.code == 200){
+                        this.$message({
+                            message: res.data.message,
+                            type: 'success'
+                        })
+                        this.getGoodsInfo()
+                    }else{
+                        this.$message({
+                            message: res.data.message,
+                            type: 'error'
+                        })
+                    }
+                })
+            }).catch(() => {
+                         
+            });
+        },
         addGoods(){
             this.changeTitle = '添加商品信息'
             this.dialogGoodsInfo = true;
@@ -137,7 +161,21 @@ export default {
                     }
                 })
             }else{
-                console.log('添加商品');
+                this.$axios.post('/addGoods',{...this.changeGoods}).then(res=>{
+                    if(res.data.code == 200){
+                        this.$message({
+                            message: res.data.message,
+                            type: 'success'
+                        })
+                        this.getGoodsInfo()
+                        this.dialogGoodsInfo = false
+                    }else{
+                        this.$message({
+                            message: res.data.message,
+                            type: 'error'
+                        })
+                    }
+                })
             }
         },
         exitGoods(value){
@@ -165,6 +203,9 @@ export default {
         .title{
             font-size: 18px;
             font-weight: 600;
+        }
+        a:hover{
+          color: #D0104C;
         }
     }
 </style>

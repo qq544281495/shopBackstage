@@ -79,6 +79,21 @@ class backstageService extends Service {
         }
     }
 
+    async deleteGoods(params) {
+        const { app } = this;
+        try {
+            const result = await app.mysql.delete('goods', { goodsId: params.goodsId });
+            if (result.affectedRows === 1) { 
+                return { code: 200, message: '删除商品信息成功'}
+            } else {
+                return { code: 500, message: '删除商品信息失败'}
+            }
+        } catch (error) {
+            console.log(error);
+            return null;
+        }
+    }
+
     async confirmGoods(params) {
         const { app } = this;
         try {
@@ -95,6 +110,79 @@ class backstageService extends Service {
             return null;
         }
     }
+
+    async addGoods(params) {
+        const { app } = this;
+        try {
+            let { texture, color, size, ...goods } = params
+            goods.goodsInfo = texture + ',' + color + ',' + size
+            const result = await app.mysql.insert('goods', {...goods});
+            if (result.affectedRows === 1) {
+                return { code: 200, message: '修改商品信息成功'}
+            } else {
+                return { code: 500, message: '修改商品信息失败'}
+            }
+        }catch (error) {
+            console.log(error);
+            return null;
+        }
+    }
+
+    async getEvaluate() {
+        const { app } = this;
+        try {
+            let result = []
+            const evaluate = await app.mysql.select('evaluate')
+            for (const item of evaluate) {
+                const user = await app.mysql.get('user', { userId: item.userId })
+                const goods = await app.mysql.get('goods', { goodsId: item.goodsId })
+                result.push({
+                    ...item,
+                    ...user,
+                    ...goods
+                })
+            }
+            return result
+        } catch (error) {
+            console.log(error);
+            return null;
+        }
+    }
+
+    async deleteEvaluate(params) {
+        const { app } = this;
+        try {
+            const result = await app.mysql.delete('evaluate', { evaluateId: params.evaluateId });
+            if (result.affectedRows === 1) { 
+                return { code: 200, message: '删除商品信息成功'}
+            } else {
+                return { code: 500, message: '删除商品信息失败'}
+            }
+        } catch (error) {
+            console.log(error);
+            return null;
+        }
+    }
+
+    async getOrder() {
+        const { app } = this;
+        try {
+            let result = []
+            const order = await app.mysql.select('order');
+            for (const item of order) {
+                const user = await app.mysql.get('user', { userId: item.userId })
+                result.push({
+                    ...item,
+                    ...user
+                })
+            }
+            return result
+        } catch (error) {
+            console.log(error);
+            return null;
+        }
+    }
+
 }
 
 module.exports = backstageService

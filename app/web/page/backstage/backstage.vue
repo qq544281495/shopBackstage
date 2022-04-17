@@ -12,12 +12,6 @@
         <div class="backstage-content">
           <div class="content-menu">
             <el-menu :default-active="activeIndex" class="el-menu-demo" mode="vertical" @select="handleSelect">
-              <el-menu-item index="0">
-                <template slot="title">
-                  <i class="el-icon-s-data"></i>
-                  <span>商城销售数据</span>
-                </template>
-              </el-menu-item>
               <el-menu-item index="1">
                 <template slot="title">
                   <i class="el-icon-s-custom"></i>
@@ -45,7 +39,6 @@
             </el-menu>
           </div>
           <div class="content-info">
-            <saleData v-if="activeIndex == '0'"></saleData>
             <userManage v-if="activeIndex == '1'"></userManage>
             <goodsManage v-if="activeIndex == '2'"></goodsManage>
             <orderManage v-if="activeIndex == '3'"></orderManage>
@@ -57,17 +50,16 @@
 </template>
 
 <script>
-const saleData = () => import('./saleData.vue')
 const userManage = () => import('./userManage.vue')
 const goodsManage = () => import('./goodsManage.vue')
 const orderManage = () => import('./orderManage.vue')
 const evaluateManage = () => import('./evaluateManage.vue')
 export default {
-  components: { saleData,userManage,goodsManage,orderManage,evaluateManage },
+  components: { userManage,goodsManage,orderManage,evaluateManage },
   data(){
     return {
       username: '',
-      activeIndex: '0'
+      activeIndex: '1'
     }
   },
   methods:{

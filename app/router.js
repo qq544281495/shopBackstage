@@ -9,4 +9,9 @@ module.exports = app => {
   router.post('/deleteUser', controller.backstage.deleteUser)
   router.get('/getGoodsInfo', controller.backstage.getGoodsInfo)
   router.post('/confirmGoods', controller.backstage.confirmGoods)
+  router.post('/addGoods', controller.backstage.addGoods)
+  router.post('/deleteGoods', controller.backstage.deleteGoods)
+  router.post('/deleteEvaluate', controller.backstage.deleteEvaluate)
+  router.get('/getEvaluate', controller.backstage.getEvaluate)
+  router.get('/getOrder', controller.backstage.getOrder)
 };

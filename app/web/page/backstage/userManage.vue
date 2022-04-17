@@ -143,5 +143,8 @@ export default {
             font-size: 18px;
             font-weight: 600;
         }
+        a:hover{
+          color: #D0104C;
+        }
     }
 </style>

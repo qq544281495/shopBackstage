@@ -3,8 +3,11 @@
   "chunk/1.js": "/public/js/chunk/1.js",
   "chunk/2.js": "/public/js/chunk/2.js",
   "chunk/3.js": "/public/js/chunk/3.js",
-  "chunk/4.js": "/public/js/chunk/4.js",
   "backstage/backstage.js": "/public/js/chunk/backstage/backstage.js",
+  "backstage/evaluateManage.js": "/public/js/chunk/backstage/evaluateManage.js",
+  "backstage/goodsManage.js": "/public/js/chunk/backstage/goodsManage.js",
+  "backstage/orderManage.js": "/public/js/chunk/backstage/orderManage.js",
+  "backstage/userManage.js": "/public/js/chunk/backstage/userManage.js",
   "common.js": "/public/js/chunk/common.js",
   "login/index.js": "/public/js/chunk/login/index.js",
   "runtime.js": "/public/js/runtime.js",
@@ -19,6 +22,38 @@
         "/public/js/runtime.js",
         "/public/js/chunk/common.js",
         "/public/js/chunk/backstage/backstage.js"
+      ],
+      "css": []
+    },
+    "backstage/evaluateManage.js": {
+      "js": [
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/backstage/evaluateManage.js"
+      ],
+      "css": []
+    },
+    "backstage/goodsManage.js": {
+      "js": [
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/backstage/goodsManage.js"
+      ],
+      "css": []
+    },
+    "backstage/orderManage.js": {
+      "js": [
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/backstage/orderManage.js"
+      ],
+      "css": []
+    },
+    "backstage/userManage.js": {
+      "js": [
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/backstage/userManage.js"
       ],
       "css": []
     },

@@ -68,4 +68,67 @@ module.exports = class BackstageController extends egg.Controller {
             }
         }
     }
+    
+    async addGoods() {
+        const { ctx } = this;
+        const params = ctx.request.body
+        const result = await ctx.service.backstage.addGoods(params)
+        if (result) {
+            ctx.body = result
+        } else {
+            ctx.body = {
+                message: '添加商品信息失败'
+            }
+        }
+    }
+
+    async deleteGoods() {
+        const { ctx } = this;
+        const params = ctx.request.body
+        const result = await ctx.service.backstage.deleteGoods(params)
+        if (result) {
+            ctx.body = result
+        } else {
+            ctx.body = {
+                message: '添加商品信息失败'
+            }
+        }
+    }
+
+    async getEvaluate() {
+        const { ctx } = this;
+        const result = await ctx.service.backstage.getEvaluate()
+        if (result) {
+            ctx.body = result
+        } else {
+            ctx.body = {
+                message: '获取评价列表失败'
+            }
+        }
+    }
+
+    async deleteEvaluate() {
+        const { ctx } = this;
+        const params = ctx.request.body
+        const result = await ctx.service.backstage.deleteEvaluate(params)
+        if (result) {
+            ctx.body = result
+        } else {
+            ctx.body = {
+                message: '删除评论失败'
+            }
+        }
+    }
+
+    async getOrder() {
+        const { ctx } = this;
+        const result = await ctx.service.backstage.getOrder()
+        if (result) {
+            ctx.body = result
+        } else {
+            ctx.body = {
+                message: '删除评论失败'
+            }
+        }
+    }
 }
