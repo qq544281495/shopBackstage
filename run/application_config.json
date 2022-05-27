@@ -17,13 +17,13 @@
       "domainWhiteList": [
         "http://localhost:7002",
         "http://127.0.0.1:7002",
-        "http://192.168.1.109:7002",
+        "http://192.168.1.5:7002",
         "http://localhost:9002",
         "http://127.0.0.1:9002",
-        "http://192.168.1.109:9002",
+        "http://192.168.1.5:9002",
         "http://localhost:9003",
         "http://127.0.0.1:9003",
-        "http://192.168.1.109:9003"
+        "http://192.168.1.5:9003"
       ],
       "protocolWhiteList": [],
       "defaultMiddleware": "csrf,hsts,methodnoallow,noopen,nosniff,csp,xssProtection,xframe,dta",
