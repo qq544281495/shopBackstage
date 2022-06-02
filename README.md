@@ -18,6 +18,6 @@
 
 儿童家具商城项目
 
-https://github.com/qq544281495/shopBackstage
+https://github.com/qq544281495/kidsFurniture
 
 该项目图片来源于互联网，如侵权联系删除。（项目仅作学习使用）
